@@ -1,5 +1,0 @@
-2019/12/26-12:43:57.436 8e5 Log #3: 356 ops saved to Table #4 OK
-2019/12/26-12:43:57.438 8e5 Archiving /home/pi/.config/chromium/Default/Site Characteristics Database/000003.log: OK
-2019/12/26-12:43:57.445 8e5 Table #4: 356 entries OK
-2019/12/26-12:43:57.450 8e5 Archiving /home/pi/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001: OK
-2019/12/26-12:43:57.475 8e5 **** Repaired leveldb /home/pi/.config/chromium/Default/Site Characteristics Database; recovered 1 files; 7866 bytes. Some data may have been lost. ****
