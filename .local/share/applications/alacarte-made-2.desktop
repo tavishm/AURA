@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=
+Terminal=true
+Name=Camera Follow
+Exec=/home/pi/cam_strt.sh
+Type=Application
+Icon=gnome-panel-launcher
+NoDisplay=false
+X-KeepTerminal=true

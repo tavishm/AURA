@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "Akaunti"
+   },
+   "AppDescription": {
+      "message": "Tazama, hariri, na uunde nyaraka za Office katika kivinjari chako."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "Kiendelezi cha Office"
+   },
+   "AppListLabel": {
+      "message": "Progra za Wavuti"
+   },
+   "AppLongDescription": {
+      "message": "Kujengwa kwa ajili ya Chrome – Tumia Word, Excel, PowerPoint, OneNote, na Sway Online bila kuhitaji kusakinisha Office.\r\n\r\nUnda na imani – Tumia chaguo za uumbizaji na mpangilio kueleza mawazo yako katika uaminifu kamili.\r\n\r\nFanya kazi ukiwa popote – Fikia faili zako kutoka mahali popote, kutokana na ujumuishaji wa OneDrive na OneDrive for Business.\r\n\r\nKwa kusakinisha programu, unakubaliana na sheria na masharti haya: http://aka.ms/officechromeextensionterms\r\n\r\nSera ya Faragha: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Kiendelezi cha kivinjari cha Office huweka ikoni kwenye upauzana wa Microsoft Edge unaokupa ufikiaji wa moja kwa moja wa faili za Office, ziwe zimehifadhiwa mtandaoni au kwenye kompyuta yako.\r\n\r\nOffice Online inaweza kufungua faili zilizohifadhiwa katika OneDrive na OneDrive for Business.\r\n\r\nUnapata vipengele vya Word, Excel, PowerPoint, OneNote, na Sway moja kwa moja kwenye kivinjari chako bila kuhitaji kusakinisha Office.\r\n\r\nKwa kusakinisha programu, unakubali sheria na masharti haya: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "Kiendelezi cha kivinjari cha Office"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "Pakia na Ufungue..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Fungua akaunti"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Hakuna nyaraka zilizotazamwa hivi karibuni."
+   },
+   "CreateNewLabel": {
+      "message": "Mpya"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Lemaza Kihariri kwenye $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Hatuwezi kupata orodha ya nyaraka zako za hivi karibuni sasa hivi."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Sarufi"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Kihariri hakiauniwi kwa sasa kwenye $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Kihariri kimelemazwa kwa sasa kwenye $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Kihariri kimezimwa."
+   },
+   "EditorPreviewLabel": {
+      "message": "(Uhakiki)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Marekebisho"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Hijai"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Wezesha Kihariri kwenye $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "Tafadhali charaza maoni yako"
+   },
+   "FeedbackDontLike": {
+      "message": "Sipendi kitu"
+   },
+   "FeedbackLike": {
+      "message": "Ninapenda kitu"
+   },
+   "FeedbackOverall": {
+      "message": "Una maoni ya aina gani?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "Taarifa ya Faragha"
+   },
+   "FeedbackSubmit": {
+      "message": "Wasilisha"
+   },
+   "FeedbackSuggestion": {
+      "message": "Nina pendekezo"
+   },
+   "FeedbackTitle": {
+      "message": "Tuma maoni"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "Ni nini ambacho hukupenda?"
+   },
+   "FeedbackWhatLike": {
+      "message": "Ulipenda nini?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "Unapendekeza nini?"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Aina ya faili haiauniwi. Tafadhali chagua waraka wa Word, Excel au PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Inapakia..."
+   },
+   "MoreFilesLabel": {
+      "message": "Nyaraka zaidi"
+   },
+   "MyAccountLabel": {
+      "message": "Tazama Akaunti Yangu"
+   },
+   "NextLabel": {
+      "message": "Ingia"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Usionyeshe hii tena"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Tulihifadhi faili yako katika kabrasha la \"kiendelezi cha Office\" kwenye OneDrive yako."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Tulihifadhi faili yako katika \"kiendelezi cha Office\" kwenye OneDrive for Business yako."
+   },
+   "NotificationFileAccess": {
+      "message": "Katika mipangilio ya kiendelezi cha Chrome, teua kisanduku tiki cha \"Ruhusu kufikia URL za faili\" kama unataka kukokota na kudondosha faili katika Chrome."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Kiendelezi cha kivinjari cha Office Online hakiwezi kufungua waraka wako kwa sababu ya ukubwa.  Tafadhali pakia moja kwa moja kwenye OneDrive ili ufungue waraka."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Samahani, hatukuweza kufungua faili yako."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Samahani, hatukuweza kufungua faili yako.  Tafadhali jaribu tena baadaye."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Samahani, hatukuweza kufungua faili yako.  Tafadhali chagua faili iliyoundwa kwa Word, Excel au PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Tunapakia nyaraka zako kwa sasa."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Huenda usajili wako wa Office 365 umekwisha muda au haujumuishi OneDrive for Business. Angalia usajili wako au ingia kwa kutumia Akaunti ya Microsoft badala yake."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Ingia kwenye kiendelezi ili uone na uhariri faili katika wavuti wa Office Online."
+   },
+   "NotificationSetDefault": {
+      "message": "Katika programu ya Faili, gonga nyaraka kwa vidole viwili ili ufungue kwa kutumia Office Online."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Chagua faili iliyoundwa kwa Word, Excel au PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Kiendelezi cha Office kinafungua waraka wako katika kivinjari"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Usionyeshe hii tena"
+   },
+   "O365FilesLabel": {
+      "message": "Kutoka OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "Uko nje ya mtandao. Tafadhali unganisha tena ili utumie kiendelezi cha kivinjari cha Office cha Chrome."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Kutoka OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Fungua"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Hivi karibuni"
+   },
+   "SettingsLabel": {
+      "message": "Mipangilio"
+   },
+   "ShareMessage": {
+      "message": "Shiriki"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Kibali kinahitajika"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Huna kibali cha kushiriki"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Unataka kuhifadhi faili zako wapi?"
+   },
+   "SignInLabel": {
+      "message": "Ingia"
+   },
+   "SignInMSALabel": {
+      "message": "Ingia ukitumia akaunti yako ya Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Ingia ukitumia akaunti ya kazini au shuleni"
+   },
+   "SignOutLabel": {
+      "message": "Ondoka"
+   },
+   "SupportPageLabel": {
+      "message": "Je, Unahitaji Usaidizi Kuingia?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Tuma otomatiki data ya kutusaidia kuboresha bidhaa zetu."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Washa Kihariri"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Pakia kwenye OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Pakia kwenye OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Hujaingia"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Fungua faili za Office katika kivinjari chako kwa kutumia Office."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "Ondoa"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Ongeza tovuti nyingine"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Zuia Kihariri kwenye tovuti nyingine"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Katisha kuongeza tovuti kwenye orodha ya tovuti zilizozuiwa."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Ongeza tovuti kwenye orodha ya tovuti zilizozuiwa"
+   },
+   "ebx_appDescription": {
+      "message": "Pata tahajia, sarufi na kukagua mtindo ndani ya kivinjari unapovinjari kwenye tovuti nyingi zaidi."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "Tazama, hariri na uunde faili za Office ndani ya kivinjari na upate tahajia, sarufi na kukagua mitindo unapocharaza kwenye tovuti nyingi zaidi."
+   },
+   "ebx_appLongDescription": {
+      "message": "Kihariri ni kisaidizi chako cha kuandika – Kihariri hutia alama makosa kwa rangi nyekundu, bluu, au kupigia mstari makosa ya hijai, sarufi na mtindo mtawalia. Elea kwenye neno lililopigiwa mstari kisha uchague pendekezo unalotaka au ujifunze zaidi kuhusu hitilafu na jinsi ya kuirekebisha.\r\n\r\nUnda kwa ujasiri – Kihariri kinatoa zana za usahihishaji zilizoboreshwa kwa wateja wa Office 365. Nyuma ya matukio, huduma za ujasuzi hutambua makosa ya hijai, sarufi na mtindo.\r\n\r\nKwa kusakinisha programu, unakubaliana na sheria na masharti haya: https://aka.ms/editorchromeextensionterms\r\n\r\nSera ya Faragha: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Kihariri huweka ikoni kwenye mwambaazana wa Microsoft Edge ambayo inawezesha usahihishi mahiri.\r\n\r\nKwa kusakinisha programu, unakubaliana na sheria na masharti haya: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "Kihariri katika Kivinjari"
+   },
+   "ebx_appShortName": {
+      "message": "Kihariri"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Badilisha na"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Editor"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Nembo ya Microsoft Editor"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "Usahihishaji unaoendeshwa na Office"
+   },
+   "ebx_buyNow": {
+      "message": "Nunua sasa"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "Katisha"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Badilisha Yote"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Mipangilio ya kihariri..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Kagua maboresho"
+   },
+   "ebx_checkGrammar": {
+      "message": "Angalia sarufi"
+   },
+   "ebx_checkSpelling": {
+      "message": "Angalia tahajia"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Inakuja hivi karibuni"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[Futa neno lililorudiwa]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Tovuti hii tayari iko kwenye orodha ya tovuti zilizozuiwa"
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "Nenda kwenye mipangilio ya Kihariri"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Kiendelezi cha kivinjari cha Microsoft Office sasa kinajumuisha Kihariri, ambacho kinatumia huduma ya mtandaoni ambayo inakagua maandishi na kutoa mapendekezo unapocharaza kwenye tovuti nyingi."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Editor (Preview) sasa inafanya kazi"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "Kihariri kinapatikana kama Microsoft Internal Preview. Tafadhali tuma maoni na hitilafu kwa "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "Marekebisho ya Uandishi wa Kihariri"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Pata hoja mahiri za kuandika za Kihariri, TB 1 ya hifadhi ya OneDrive, na vipengele vya premium katika programu zote za Office 365."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "Sarufi ya Juu"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "Sarufi ya Msingi"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "Uwazi"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "Muhtasari"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "Lugha rasmi"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word, Excel, PowerPoint, Outlook"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "Wavuti pekee"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "Programu za eneokazi za premium na simu"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "Hifadhi ya wingu la OneDrive"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "GB 5 kwa kila mtu"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "TB 1 kwa kila mtu aliye na Personal Vault"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "Hijai"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "Msamiati"
+   },
+   "ebx_goPremiumFree": {
+      "message": "Bila malipo"
+   },
+   "ebx_goPremiumLine": {
+      "message": "Jaribu hoja za kuandika za hali ya juu za Kihariri."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Tumia premium"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "Faida Nyingine za Microsoft"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "Pata mengi kutoka kwenye Kihariri na Office 365"
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "Na Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Ficha visawe"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Puuza yote"
+   },
+   "ebx_learnMore": {
+      "message": "Jifunze zaidi"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Amri zaidi"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Mipangilio ya Kihariri"
+   },
+   "ebx_preview": {
+      "message": "(Uhakiki)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Lugha ya kusahihishi"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Teua lugha ya usahihishaji"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "Hifadhi"
+   },
+   "ebx_settings": {
+      "message": "Mipangilio"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "Onyesha mapendekezo ya tahajia na sarufi"
+   },
+   "ebx_showSynonyms": {
+      "message": "Onyesha visawe"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Onyesha visawe katika mapendekezo ya tahajia"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Vitendo zaidi"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Zima Kihariri"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Kihariri ni huduma ya mtandaoni ambayo inachanganua maudhui yako ili kuwasilisha mapendekezo."
+   },
+   "ebx_userBlockedSites": {
+      "message": "Tovuti zilizozuiwa"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "URL batili"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Url batili \"$url$\" kwenye mstari $line$.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Umelemaza kipengele cha kusahihisha kwenye tovuti zilizoorodheshwa hapa chini. Kihariri kinaweza kulemazwa kiotomatiki kwenye tovuti za ziada zenye maudhui nyeti au kasi za upakiaji wa polepole."
+   }
+}

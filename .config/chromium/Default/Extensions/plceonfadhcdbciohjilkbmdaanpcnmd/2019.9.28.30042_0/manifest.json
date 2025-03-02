@@ -1,0 +1,63 @@
+{
+   "app": {
+      "icon_color": "#028270",
+      "launch": {
+         "web_url": "https://sway.office.com/my"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://sway.office.com/Content/favicon-36x36.png"
+      }, {
+         "size": 36,
+         "url": "https://sway.office.com/Content/favicon-36x36.png"
+      }, {
+         "size": 48,
+         "url": "https://sway.office.com/Content/favicon-48x48.png"
+      }, {
+         "size": 64,
+         "url": "https://sway.office.com/Content/favicon-72x72.png"
+      }, {
+         "size": 72,
+         "url": "https://sway.office.com/Content/favicon-72x72.png"
+      }, {
+         "size": 96,
+         "url": "https://sway.office.com/Content/favicon-96x96.png"
+      }, {
+         "size": 128,
+         "url": "https://sway.office.com/Content/favicon-144x144.png"
+      }, {
+         "size": 144,
+         "url": "https://sway.office.com/Content/favicon-144x144.png"
+      }, {
+         "size": 192,
+         "url": "https://sway.office.com/Content/favicon-192x192.png"
+      }, {
+         "size": 256,
+         "url": "https://sway.office.com/Content/favicon-256x256.png"
+      }, {
+         "size": 384,
+         "url": "https://sway.office.com/Content/favicon-384x384.png"
+      }, {
+         "size": 512,
+         "url": "https://sway.office.com/Content/favicon-512x512.png"
+      } ]
+   },
+   "description": "Create and share interactive reports, presentations, personal stories, and more. Sway is an easy-to-use digital storytelling app for creating interactive reports, presentations, personal stories and more. Its built-in design engine helps you create professional designs in minutes. With Sway, your images, text, videos, and other multimedia all flow together in a way that enhances your story. Sway makes sure your creations look great on any screen.",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "36": "icons/36.png",
+      "384": "icons/384.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "72": "icons/72.png",
+      "96": "icons/96.png"
+   },
+   "key": "tCYti4oG+utyu3AUe9Ju8mD9cTj1VNIoFI0XPfZt7q8=",
+   "name": "Sway",
+   "version": "2019.9.28.30042"
+}

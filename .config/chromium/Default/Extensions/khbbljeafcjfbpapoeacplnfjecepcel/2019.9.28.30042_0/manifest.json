@@ -1,0 +1,47 @@
+{
+   "app": {
+      "icon_color": "#10773F",
+      "launch": {
+         "web_url": "https://www.office.com/launch/excel?auth=1"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 24,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 32,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 48,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 64,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 96,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 128,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      }, {
+         "size": 256,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "24": "icons/24.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "uz4wdmdYPibsQz0ouZgj+2mp8Z53vSrzbbo7O7QHsCs=",
+   "name": "Excel",
+   "version": "2019.9.28.30042"
+}

@@ -1,0 +1,692 @@
+{
+   "AccountLabel": {
+      "_message.comment": "Label text for account information",
+      "message": "Account"
+   },
+   "AppDescription": {
+      "_message.comment": "Application description",
+      "message": "View, edit, and create Office documents in your browser."
+   },
+   "AppDescriptionWithEditor": {
+      "_message.comment": "Application description with Editor",
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "_message.comment": "Application folder name for uploaded documents",
+      "message": "Office extension"
+   },
+   "AppListLabel": {
+      "_message.comment": "Label text for app list header",
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "_message.comment": "Application long description",
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "_message.comment": "Application long description for Microsoft Edge",
+      "message": "Office browser extension puts an icon on the Microsoft Edge toolbar that gives you direct access to your Office files, whether they are stored online or on your computer.\r\n\r\nOffice web extension can open files stored in OneDrive and OneDrive for Business.\r\n\r\nYou get the features of Word, Excel, PowerPoint, OneNote, and Sway right in your browser without needing Office installed.\r\n\r\nBy installing the app, you agree to these terms and conditions: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "_message.comment": "Application long description with Editor",
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "_message.comment": "Application name",
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "_message.comment": "Application name for Edge",
+      "message": "Office browser extension"
+   },
+   "AppShortName": {
+      "_message.comment": "Application short name",
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "_message.comment": "{locked}",
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "_message.comment": "Label text for file picker",
+      "message": "Upload and Open..."
+   },
+   "CopyrightLabel": {
+      "_message.comment": "Label text for copyright",
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "_message.comment": "Label text for account creation link",
+      "message": "Create an account"
+   },
+   "CreateDocsMessageLabel": {
+      "_message.comment": "Label text for document creation to appear in recents list",
+      "message": "No recently viewed documents."
+   },
+   "CreateNewLabel": {
+      "_message.comment": "Label text for creating new document",
+      "message": "New"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "_message.comment": "Label text for button that allows a user to disable the Editor feature on a specific page such as facebook.com or twitter.com. Expect host name to be passed in.",
+      "message": "Disable Editor on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "_message.comment": "Message to display when we receive an error call the MRU service",
+      "message": "We can't get the list of your recent documents right now."
+   },
+   "EditorGrammarToggleLabel": {
+      "_message.comment": "Label text for the toggle control that allows user to turn on or off grammar checking in Editor",
+      "message": "Grammar"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "_message.comment": "Label text for tells the user that the Editor feature has been blocked by the system or remotely by Microsoft on a specific page such as facebook.com or twitter.com and cannot be enabled by the user. Expect host name to be passed in.",
+      "message": "Editor is not currently supported on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "_message.comment": "Label text for tells the user that the Editor feature has been disabled on a specific page such as facebook.com or twitter.com. Expect host name to be passed in.",
+      "message": "Editor is currently disabled on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "_message.comment": "Label text for tells the user that the Editor feature has been turned off.",
+      "message": "Editor is off."
+   },
+   "EditorPreviewLabel": {
+      "_message.comment": "Label shown at the right of the 'Microsoft Editor' brand name to signify that it is a preview. In English it will look like: 'Microsoft Editor (Preview)'. NOTE: as of 22 nov 2019 the brand name is subject to change in the next coming weeks.",
+      "message": "(Preview)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "_message.comment": "Label text for the toggle control that allows user to turn on or off advanced grammar and style checking (refinements) in Editor",
+      "message": "Refinements"
+   },
+   "EditorSpellingToggleLabel": {
+      "_message.comment": "Label text for the toggle control that allows user to turn on or off spellchecking in Editor",
+      "message": "Spelling"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "_message.comment": "Label text for button that allows a user to enable back the Editor feature on a specific page such as facebook.com or twitter.com. Expect host name to be passed in.",
+      "message": "Enable Editor on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "_message.comment": "Excel app name",
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "_message.comment": "Excel app name",
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "Please type in your comment"
+   },
+   "FeedbackDontLike": {
+      "message": "I don't like something"
+   },
+   "FeedbackLike": {
+      "message": "I like something"
+   },
+   "FeedbackOverall": {
+      "message": "What kind of feedback do you have?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "Privacy Statement"
+   },
+   "FeedbackSubmit": {
+      "message": "Submit"
+   },
+   "FeedbackSuggestion": {
+      "message": "I have a suggestion"
+   },
+   "FeedbackTitle": {
+      "message": "Send feedback"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "What did you not like?"
+   },
+   "FeedbackWhatLike": {
+      "message": "What did you like?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "What do you suggest?"
+   },
+   "FileTypeErrorMessage": {
+      "_message.comment": "Text for file type error message",
+      "message": "The file type is not supported. Please choose a Word, Excel or PowerPoint document."
+   },
+   "LoadingRecentsLabel": {
+      "_message.comment": "Label to display while getting recents list",
+      "message": "Loading..."
+   },
+   "MoreFilesLabel": {
+      "_message.comment": "Label to view more recent documents",
+      "message": "More docs"
+   },
+   "MyAccountLabel": {
+      "_message.comment": "Label text for my account page",
+      "message": "View My Account"
+   },
+   "NextLabel": {
+      "_message.comment": "Label text for next",
+      "message": "Sign in"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Do not show this again"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "We saved your file in the \"Office extension\" folder on your OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "We saved your file in the \"Office extension\" folder on your OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "In the Chrome extension settings, select the \"Allow access to file URLs\" checkbox if you want to drag and drop files into Chrome."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Office browser extension is unable to open your document because of the size.  Please upload directly to OneDrive to open the document."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Sorry, we were unable to open your file."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Sorry, we were unable to open your file.  Please try again at a later time."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Sorry, we were unable to open your file.  Please choose a file created with Word, Excel, or PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "We are currently uploading your document(s)."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Your Office 365 subscription may be expired or may not include OneDrive for Business. Check your subscription or log in with a Microsoft Account instead."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Sign in to the extension to view and edit files in Office on the web."
+   },
+   "NotificationSetDefault": {
+      "message": "In the Files app, tap documents with two fingers to open with Office."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Choose a file created with Word, Excel, or PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "_message.comment": "Text for web document redirect notification",
+      "message": "The Office extension is opening your document in the browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "_message.comment": "Text for dismissing the web document redirect notification",
+      "message": "Do not show this again"
+   },
+   "O365FilesLabel": {
+      "_message.comment": "Label text for O365 files",
+      "message": "From OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "_message.comment": "Text for directing to Office on the web",
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "_message.comment": "Label to tell user they are working offline",
+      "message": "You're offline. Please re-connect to use Office browser extension for Chrome."
+   },
+   "OneDriveAppName": {
+      "_message.comment": "OneDrive app name",
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "_message.comment": "Label text for OneDrive files",
+      "message": "From OneDrive"
+   },
+   "OneNoteAppName": {
+      "_message.comment": "OneNote app name",
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "_message.comment": "OneNote app name",
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "_message.comment": "Label text for opening documents",
+      "message": "Open"
+   },
+   "OutlookAppName": {
+      "_message.comment": "Outlook app name",
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "_message.comment": "PowerPoint app name",
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "_message.comment": "PowerPoint app name",
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "_message.comment": "Label text for opening recent documents",
+      "message": "Recent"
+   },
+   "SettingsLabel": {
+      "_message.comment": "Label text for settings",
+      "message": "Settings"
+   },
+   "ShareMessage": {
+      "_message.comment": "Accessibility text for sharing buttons",
+      "message": "Share"
+   },
+   "SharePermissionsErrorMessage": {
+      "_message.comment": "Text for on-hover error message (Edge only)",
+      "message": "Permission required"
+   },
+   "SharePermissionsTooltip": {
+      "_message.comment": "Text for HTML title attribute (Chrome only)",
+      "message": "You don't have permission to share"
+   },
+   "SharePointAppName": {
+      "_message.comment": "SharePoint app name",
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "_message.comment": "SharePoint site app name",
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "_message.comment": "Label text for sign in location",
+      "message": "Where do you want to save your files?"
+   },
+   "SignInLabel": {
+      "_message.comment": "Label text for Sign in link",
+      "message": "Sign in"
+   },
+   "SignInMSALabel": {
+      "_message.comment": "Label text for Sign in to MSA link",
+      "message": "Sign in with a Microsoft account"
+   },
+   "SignInO365Label": {
+      "_message.comment": "Label text for Sign in to O365 link",
+      "message": "Sign in with a work or school account"
+   },
+   "SignOutLabel": {
+      "_message.comment": "Label text for Sign out link",
+      "message": "Sign out"
+   },
+   "SupportPageLabel": {
+      "_message.comment": "Label text for support page",
+      "message": "Need Help Logging In?"
+   },
+   "SwayAppName": {
+      "_message.comment": "Sway app name",
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "_message.comment": "Teams app name",
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "_message.comment": "Label text for telemetry checkbox",
+      "message": "Automatically send data to help us improve our products."
+   },
+   "TurnOnEditorLabel": {
+      "_message.comment": "Label text for button that allows a user to turn back on the Editor feature.",
+      "message": "Turn on Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "_message.comment": "Label text for local file picker in Edge for O365 users",
+      "message": "Upload to OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "_message.comment": "Label text for local file picker in Edge for MSA users",
+      "message": "Upload to OneDrive"
+   },
+   "UsernameLabel": {
+      "_message.comment": "Label text for username",
+      "message": "Not signed in"
+   },
+   "WebRedirectSettingLabel": {
+      "_message.comment": "Label text for web document redirect checkbox",
+      "message": "Open Office files directly in the browser with Office."
+   },
+   "WordAppName": {
+      "_message.comment": "Word app name",
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "_message.comment": "Word app name",
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "_message.comment": "ARIA caption for a button to remove an item from the list. This is an action.",
+      "message": "Remove"
+   },
+   "ebx_addAnotherSite": {
+      "_message.comment": "Caption for the button to add a web-site to the list of blocked web-sites.",
+      "message": "Add another site"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "_message.comment": "Screen-reader label for the button to add a web-site to the list of blocked web-sites.",
+      "message": "Block Editor on another site"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "_message.comment": "ARIA label for the button to cancel site adding to the list of blocked web-sites. This is an action.",
+      "message": "Cancel adding site to the list of blocked sites."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "_message.comment": "ARIA label for the button to submit the entered web-site to the list of blocked web-sites. This is an action.",
+      "message": "Add site to the list of blocked sites"
+   },
+   "ebx_appDescription": {
+      "_message.comment": "A plain text string (no HTML or other formatting; no more than 132 characters) that describes the standalone version of the extension",
+      "message": "Get spelling, grammar & style checking within the browser as you type across most websites."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "_message.comment": "A plain text string (no HTML or other formatting; no more than 132 characters) that describes the extension integrated with the Office browser extension",
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "ebx_appLongDescription": {
+      "_message.comment": "Application long description",
+      "message": "Editor is your writing assistant – Editor marks issues with red, blue, or gold underline for spelling, grammar, and stylistic issues, respectively. Hover over the underlined word, and then choose the suggestion you want, or learn more about the error and how to correct it.\r\n\r\nCreate with confidence – Editor provides enhanced proofing tools for Office 365 subscribers. Behind the scenes, intelligent services identify spelling, grammar, and stylistic issues.\r\n\r\nBy installing the app, you agree to these terms and conditions: https://aka.ms/editorchromeextensionterms\r\n\r\nPrivacy Policy: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "_message.comment": "Application long description for Microsoft Edge",
+      "message": "Editor puts an icon on the Microsoft Edge toolbar that enables advanced proofing.\r\n\r\nBy installing the app, you agree to these terms and conditions: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "_message.comment": "Name that appears in the Chrome web store and in the app",
+      "message": "Editor in the Browser"
+   },
+   "ebx_appShortName": {
+      "_message.comment": "Shortened name will be used in the app launcher or the new tab - maximum of 12 characters recommended",
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "_message.comment": "{locked}",
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "_message.comment": "Accessibility label describing an action.",
+      "message": "Replace with"
+   },
+   "ebx_asInSynonyms": {
+      "_message.comment": "This is a text for screen readers, connecting the suggestions with its synonyms, for example: 'fat similar to overweight, thick'",
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "_message.comment": "Product brand name displayed in the bottom right of the callout",
+      "message": "Microsoft Editor"
+   },
+   "ebx_brandTextArialLabel": {
+      "_message.comment": "Accessibility label for product brand name",
+      "message": "Microsoft Editor logo"
+   },
+   "ebx_brandTextBrandName": {
+      "_message.comment": "Brand name to be displayed in the bottom right of the callout",
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "_message.comment": "Tooltip for the Editor brand text in callout",
+      "message": "Proofing powered by Office"
+   },
+   "ebx_buyNow": {
+      "_message.comment": "This is a text on a button to buy the product subscription.",
+      "message": "Buy now"
+   },
+   "ebx_cancelButtonCaption": {
+      "_message.comment": "Caption for cancel button",
+      "message": "Cancel"
+   },
+   "ebx_changeAllCommandLabel": {
+      "_message.comment": "Label for the Change All context menu item in the dropdown menu in the far end of the suggestion button",
+      "message": "Change All"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "_message.comment": "Label for the Change Setting context menu item in the callout",
+      "message": "Editor settings..."
+   },
+   "ebx_checkForRefinements": {
+      "_message.comment": "This is an action. It's a text for a button that toggles the setting On and Off.",
+      "message": "Check for refinements"
+   },
+   "ebx_checkGrammar": {
+      "_message.comment": "This is an action. It's a text for a button that toggles the setting On and Off.",
+      "message": "Check grammar"
+   },
+   "ebx_checkSpelling": {
+      "_message.comment": "This is an action. It's a text for a button that toggles the setting On and Off.",
+      "message": "Check spelling"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "_message.comment": "Tooltip title for features that are going to be implemented in a future version",
+      "message": "Coming soon"
+   },
+   "ebx_copyrightLabel": {
+      "_message.comment": "Label text for copyright in web store",
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "_message.comment": "This is an action. Callout menu option. When clicked the repeated word will be removed from the proofed text. Square brackets are part of the message.",
+      "message": "[Delete repeated word]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "_message.comment": "Error message when the user tries to add a duplicate entry to the blocked sites list.",
+      "message": "This site is already on the blocked sites list"
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "_message.comment": "Text of a link to open the settings page.",
+      "message": "Go to Editor settings"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "_message.comment": "Text of the announcement to notify user that the Editor is now enabled.",
+      "message": "The Microsoft Office browser extension now includes Editor, which uses an online service that checks your writing and offers suggestions as you type on most websites."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "_message.comment": "Title of the announcement to notify user that the Editor is now enabled.",
+      "message": "Microsoft Editor (Preview) is now running"
+   },
+   "ebx_feedbackSendTo": {
+      "_message.comment": "Text in front of the link to submit the feedback via email.",
+      "message": "Editor is available as a Microsoft Internal Preview. Please send feedback and bugs to "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "_message.comment": "The column title of the table with comparison of having a subscription and using the product for free.",
+      "message": "Editor Writing Refinements"
+   },
+   "ebx_goPremiumExplained": {
+      "_message.comment": "Text on the settings page explaining the advantages of the premium subscription.",
+      "message": "Get Editor's advanced writing ideas, 1 TB of OneDrive storage, and premium features in all Office 365 apps."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Advanced Grammar"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Basic Grammar"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Clarity"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Conciseness"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Formal language"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "_message.comment": "Office 365 feature name for the GoPremium page.",
+      "message": "Word, Excel, PowerPoint, Outlook"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "_message.comment": "Feature benefit description for the GoPremium page.",
+      "message": "Web-only"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "_message.comment": "Feature benefit description for the GoPremium page.",
+      "message": "Premium desktop and mobile apps"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "_message.comment": "Office 365 feature name for the GoPremium page.",
+      "message": "OneDrive cloud storage"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "_message.comment": "Feature benefit description for the GoPremium page.",
+      "message": "5 GB per person"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "_message.comment": "Feature benefit description for the GoPremium page.",
+      "message": "1 TB per person with Personal Vault"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Spelling"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "_message.comment": "Editor feature name for the GoPremium page.",
+      "message": "Vocabulary"
+   },
+   "ebx_goPremiumFree": {
+      "_message.comment": "The column title of the table with comparison of having a subscription and using the product for free.",
+      "message": "Free"
+   },
+   "ebx_goPremiumLine": {
+      "_message.comment": "This is not an action. This is a text in front of 'Go premium' link with reasoning to buy a subscription.",
+      "message": "Try Editor's advanced writing ideas."
+   },
+   "ebx_goPremiumLinkText": {
+      "_message.comment": "This is an action. This is a text of a link to buy a premium subscription.",
+      "message": "Go premium"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "_message.comment": "The column title of the table with comparison of having a subscription and using the product for free.",
+      "message": "Other Microsoft Benefits"
+   },
+   "ebx_goPremiumPageTitle": {
+      "_message.comment": "This is the header of a web-page describing all the benefits of having a premium subscription.",
+      "message": "Get more from Editor with Office 365"
+   },
+   "ebx_goPremiumSubscription": {
+      "_message.comment": "The column title of the table with comparison of having a subscription and using the product for free. Office 365 is a product name.",
+      "message": "With Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "_message.comment": "This is an action. Dropdown menu option. When clicked the synonyms will be hidden.",
+      "message": "Hide synonyms"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "_message.comment": "Label for the ignore button in callout",
+      "message": "Ignore all"
+   },
+   "ebx_learnMore": {
+      "_message.comment": "The link text to open a help page.",
+      "message": "Learn more"
+   },
+   "ebx_moreButtonArialLabel": {
+      "_message.comment": "Accessibility label for the more button ('...') in callout",
+      "message": "More commands"
+   },
+   "ebx_office365": {
+      "_message.comment": "Follow brand name localization rules",
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "_message.comment": "Title of the settings page, composed with the short app name",
+      "message": "Editor Settings"
+   },
+   "ebx_preview": {
+      "_message.comment": "Text to show after the product name to indicate its preview status.",
+      "message": "(Preview)"
+   },
+   "ebx_proofingLanguage": {
+      "_message.comment": "Label for the proofing language setting dropdown",
+      "message": "Proofing language"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "_message.comment": "Placeholder value for the proofing language setting dropdown",
+      "message": "Select a proofing language"
+   },
+   "ebx_saveButtonCaption": {
+      "_message.comment": "Caption for save button",
+      "message": "Save"
+   },
+   "ebx_settings": {
+      "_message.comment": "Used in the html title of the settings page",
+      "message": "Settings"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "_message.comment": "Caption for show editor and spelling toggle",
+      "message": "Show spelling and grammar suggestions"
+   },
+   "ebx_showSynonyms": {
+      "_message.comment": "This is an action. Dropdown menu option. When clicked the synonyms will be rendered.",
+      "message": "Show synonyms"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "_message.comment": "Caption for show synonyms toggle on the settings page",
+      "message": "Show synonyms on spelling suggestions"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "_message.comment": "Accessibility label for the more actions button for a suggestion in the callout",
+      "message": "More actions"
+   },
+   "ebx_turnOffEditor": {
+      "_message.comment": "This is an action. It's a text for a button that toggles Editor On and Off.",
+      "message": "Turn off Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "_message.comment": "Text on the settings page explaining what Editor is.",
+      "message": "Editor is an online service that analyses your content to deliver suggestions."
+   },
+   "ebx_userBlockedSites": {
+      "_message.comment": "Caption for control holding list of websites not to proof",
+      "message": "Blocked sites"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "_message.comment": "Error caption displayed when incorrect URL is entered in textbox",
+      "message": "Invalid url"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "_message.comment": "Error caption displayed when incorrect URLs are entered in textbox",
+      "message": "Invalid url \"$url$\" at line $line$.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "_message.comment": "Caption for control holding list of websites not to proof",
+      "message": "You have disabled proofing on the sites listed below. Editor may be automatically disabled on additional sites with sensitive content or slow loading speeds."
+   }
+}

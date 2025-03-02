@@ -1,0 +1,47 @@
+{
+   "app": {
+      "icon_color": "#BE3C1C",
+      "launch": {
+         "web_url": "https://www.office.com/launch/powerpoint?auth=1"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 24,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 32,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 48,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 64,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 96,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 128,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      }, {
+         "size": 256,
+         "url": "https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "24": "icons/24.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "bfkFjreE8jvznqTCzR/R3YyySOwjXduvIqvHCGuuSSU=",
+   "name": "PowerPoint",
+   "version": "2019.9.28.30042"
+}

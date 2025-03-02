@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "Account"
+   },
+   "AppDescription": {
+      "message": "Visualizza, modifica e crea documenti di Office nel browser."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "Estensione di Office"
+   },
+   "AppListLabel": {
+      "message": "App Web"
+   },
+   "AppLongDescription": {
+      "message": "Progettato per Chrome: usa Word Excel, PowerPoint, OneNote e Sway Online senza la necessità di installare Office.\r\n\r\nCrea in tutta tranquillità: usa le consuete opzioni di formattazione e layout per esprimere le tue idee con la massima chiarezza.\r\n\r\nLavora anche in viaggio: accedi ai tuoi file ovunque, grazie all'integrazione con OneDrive e OneDrive for Business.\r\n\r\nInstallando l'app, accetti di conformarti a questi termini e condizioni: http://aka.ms/officechromeextensionterms\r\n\r\nInformativa sulla privacy://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "L'estensione del browser di Office aggiunge un'icona sulla barra degli strumenti Microsoft Edge per offrire l'accesso diretto ai file di Office archiviati in rete o nel computer in uso.\r\n\r\nL'estensione web di Office può aprire i file archiviati in OneDrive e OneDrive for Business.\r\n\r\nOttieni le funzionalità di Word, Excel, PowerPoint, OneNote e Sway nel tuo browser senza dover installare Office.\r\n\r\nInstallando l'applicazione, accetti queste condizioni: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "Estensione del browser di Office"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "Carica e apri..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Crea un account"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Nessun documento visualizzato di recente."
+   },
+   "CreateNewLabel": {
+      "message": "Nuovo"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Disabilita Editor in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Al momento non è possibile ottenere l'elenco dei documenti recenti."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatica"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor non è al momento supportato in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor è attualmente disabilitato in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "L'Editor è disattivato."
+   },
+   "EditorPreviewLabel": {
+      "message": "(Anteprima)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Perfezionamenti"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ortografia"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Abilita Editor in $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "Digitare il commento"
+   },
+   "FeedbackDontLike": {
+      "message": "Non mi piace qualcosa"
+   },
+   "FeedbackLike": {
+      "message": "Mi piace qualcosa"
+   },
+   "FeedbackOverall": {
+      "message": "Che genere di feedback vuoi segnalare?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "Informativa sulla privacy"
+   },
+   "FeedbackSubmit": {
+      "message": "Invia"
+   },
+   "FeedbackSuggestion": {
+      "message": "Ho un suggerimento"
+   },
+   "FeedbackTitle": {
+      "message": "Invia feedback"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "Cosa non è piaciuto?"
+   },
+   "FeedbackWhatLike": {
+      "message": "Cosa è piaciuto?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "Cosa si suggerisce?"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Il tipo di file non è supportato. Scegliere un documento di Word, Excel o PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Caricamento..."
+   },
+   "MoreFilesLabel": {
+      "message": "Altri documenti"
+   },
+   "MyAccountLabel": {
+      "message": "Visualizza Account personale"
+   },
+   "NextLabel": {
+      "message": "Accedi"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Non visualizzare più questo messaggio"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Il file è stato salvato nella cartella \"Estensione di Office\" di OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Il file nella cartella \"Estensione Office\" è stato salvato sui OneDrive per azienda."
+   },
+   "NotificationFileAccess": {
+      "message": "Nelle impostazioni delle estensioni di Chrome, selezionare la casella di controllo \"Consenti accesso agli URL dei file\" se si vogliono trascinare i file in Chrome."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Estensione del browser di Office è in grado di aprire il documento a causa delle dimensioni.  Caricare direttamente a OneDrive per aprire il documento."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Non è stato possibile aprire il file."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Non è stato possibile aprire il file. Riprovare più tardi."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Non è stato possibile aprire il file. Scegliere un file creato con Word, Excel o PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "È in corso il caricamento dei documenti."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "È possibile che l'abbonamento a Office 365 sia scaduto o che non includa OneDrive for Business. Controllare l'abbonamento oppure accedere con un account Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Accedi all'estensione per visualizzare e modificare i file in Office sul web."
+   },
+   "NotificationSetDefault": {
+      "message": "Nell'applicazione di file, scegliere documenti con due dita per aprire con Office."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Scegliere un file creato con Word, Excel o PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "L'estensione di Office sta aprendo il documento nel browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Non visualizzare più questo messaggio"
+   },
+   "O365FilesLabel": {
+      "message": "Da OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "Sei offline. Riconnettiti per usare l'estensione del browser di Office per Chrome."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Da OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Apri"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Recenti"
+   },
+   "SettingsLabel": {
+      "message": "Impostazioni"
+   },
+   "ShareMessage": {
+      "message": "Condividi"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Necessaria autorizzazione"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Non si dispone dell'autorizzazione per la condivisione"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Dove si vogliono salvare i file?"
+   },
+   "SignInLabel": {
+      "message": "Accedi"
+   },
+   "SignInMSALabel": {
+      "message": "Accedi con un account Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Accedi con un account aziendale o dell'istituto di istruzione"
+   },
+   "SignOutLabel": {
+      "message": "Disconnetti"
+   },
+   "SupportPageLabel": {
+      "message": "Serve aiuto per l'accesso?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Invia automaticamente i dati per aiutarci a migliorare i prodotti."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Abilita Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Carica in OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Carica in OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Accesso non effettuato"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Apri i file di Office direttamente nel browser con Office."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "Rimuovi"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Aggiungi un altro sito"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Blocca l'editor in un altro sito"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Annulla l'aggiunta del sito all'elenco dei siti bloccati."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Aggiungi sito all'elenco dei siti bloccati"
+   },
+   "ebx_appDescription": {
+      "message": "Controllo ortografico, grammaticale e dello stile all'interno del browser nella maggior parte dei siti Web."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "Visualizzare, modificare e creare file di Office all'interno del browser e ottenere il controllo ortografico, grammaticale e di stile durante la digitazione nella maggior parte dei siti Web."
+   },
+   "ebx_appLongDescription": {
+      "message": "L'editor è l'assistente di scrittura: l'editor sottolinea gli errori in rosso (errori ortografici), blu (errori grammaticali) o oro (errori stilistici). Passa il mouse sulla parola sottolineata e scegli il suggerimento che preferisci oppure scopri di più sull'errore e su come correggerlo.\r\n\r\nCrea liberamente: l'editor fornisce strumenti di correzione avanzati per gli abbonati a Office 365. I servizi intelligenti identificano automaticamente i problemi ortografici, grammaticali e stilistici.\r\n\r\nInstallando l'app, accetti le condizioni seguenti: https://aka.ms/editorchromeextensionterms\r\n\r\nInformativa sulla privacy: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "L'editor inserisce un'icona nella barra degli strumenti di Microsoft Edge che abilita gli strumenti di correzione avanzata.\r\n\r\nSe installi l'app, accetti queste condizioni: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "Editor nel browser"
+   },
+   "ebx_appShortName": {
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Sostituisci con"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "message": "Redattore Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Logo di Microsoft Editor"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "Strumenti di correzione con tecnologia Office"
+   },
+   "ebx_buyNow": {
+      "message": "Acquista ora"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "Annulla"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Modifica tutto"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Impostazioni editor..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Verifica la presenza di perfezionamenti"
+   },
+   "ebx_checkGrammar": {
+      "message": "Controllo grammaticale"
+   },
+   "ebx_checkSpelling": {
+      "message": "Controllo ortografico"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Presto disponibile"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[Elimina la parola ripetuta]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Questo sito è già presente nell'elenco dei siti bloccati"
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "Vai Impostazioni editor"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "L'estensione del browser di Microsoft Office ora include Editor, che utilizza un servizio online che controlla la scrittura e offre suggerimenti mentre digiti nella maggior parte dei siti Web."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Editor (anteprima) è in esecuzione"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "Editor è disponibile come anteprima interna di Microsoft. Invia feedback e segnalazioni di bug a "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "Perfezionamenti di scritture editor"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Ottieni le idee di scrittura avanzate di Editor, 1 TB di spazio di archiviazione di OneDrive e le funzionalità premium in tutte le app di Office 365."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "Grammatica livello avanzato"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "Grammatica livello base"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "Chiarezza"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "Concisione"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "Linguaggio formale"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word, Excel, PowerPoint, Outlook"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "Solo Web"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "App premium per desktop e per dispositivi mobili"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "Spazio di archiviazione sul cloud di OneDrive"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "5 GB a persona"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "1 TB a persona con Vault personale"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "Ortografia"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "Vocabolario"
+   },
+   "ebx_goPremiumFree": {
+      "message": "Gratuito"
+   },
+   "ebx_goPremiumLine": {
+      "message": "Prova le idee di scrittura avanzate di Editor."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Passa a Premium"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "Altri vantaggi Microsoft"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "Ottieni di più da Editor con Office 365"
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "Con Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Nascondi sinonimi"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignora tutto"
+   },
+   "ebx_learnMore": {
+      "message": "Scopri di più"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Altri comandi"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Impostazioni editor"
+   },
+   "ebx_preview": {
+      "message": "(anteprima)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Lingua dello strumento di correzione"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Seleziona una lingua per lo strumento di correzione"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "Salva"
+   },
+   "ebx_settings": {
+      "message": "Impostazioni"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "Mostra suggerimenti ortografici e grammaticali"
+   },
+   "ebx_showSynonyms": {
+      "message": "Mostra sinonimi"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Mostra i sinonimi nei suggerimenti ortografici"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Altre azioni"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Disattiva editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editor è un servizio online che analizza i tuoi contenuti per fornire suggerimenti."
+   },
+   "ebx_userBlockedSites": {
+      "message": "Siti bloccati"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "L'URL non è valido"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "URL \"$url\" non valido alla riga $line$.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "La correzione è stata disabilitata sui siti elencati di seguito. L'editor può essere disattivato automaticamente su siti aggiuntivi con contenuti sensibili o velocità di caricamento lente."
+   }
+}

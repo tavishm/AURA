@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Display Server
+Icon=gnome-panel-launcher
+URL=/home/pi/.local/share/applications/alacarte-made.desktop

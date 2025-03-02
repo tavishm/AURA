@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "Обліковий запис"
+   },
+   "AppDescription": {
+      "message": "Переглядайте, редагуйте та створюйте документи Office у браузері."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "Розширення Office"
+   },
+   "AppListLabel": {
+      "message": "Веб-програми"
+   },
+   "AppLongDescription": {
+      "message": "Створено для Chrome: використовуйте Word, Excel, PowerPoint, OneNote і Sway Online, не інсталюючи Office.\r\n\r\nЗвичні засоби для роботи: висловлюйте свої ідеї за допомогою знайомих засобів форматування та розмітки.\r\n\r\nРобота в дорозі: завдяки інтеграції зі сховищами OneDrive і \"OneDrive для бізнесу\" ваші файли завжди від рукою.\r\n\r\nІнсталювавши програму, ви погоджуєтеся з цими умовами та положеннями: http://aka.ms/officechromeextensionterms\r\n\r\nПолітика конфіденційності: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Розширення Office для браузера додає піктограму на панель інструментів Microsoft Edge, щоб надати вам безпосередній доступ до ваших файлів Office в онлайновому сховищі та на комп’ютері.\r\n\r\nВеб-розширення Office може відкривати файли, збережені у сховищі OneDrive і \"OneDrive для бізнесу\".\r\n\r\nУсі можливості Word, Excel, PowerPoint, OneNote і Sway доступні прямо в браузері – інсталювати Office не потрібно.\r\n\r\nІнсталюючи цю програму, ви погоджуєтеся з такими умовами та положеннями: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "Розширення Office для браузера"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "Передати та відкрити…"
+   },
+   "CopyrightLabel": {
+      "message": "Корпорація Майкрософт (Microsoft Corporation), 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Створити обліковий запис"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Немає нещодавно переглянутих документів."
+   },
+   "CreateNewLabel": {
+      "message": "Створити"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Вимкнути Редактор для $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Зараз не вдалось отримати список останніх документів."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Граматика"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Редактор зараз не підтримується для $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Редактор зараз вимкнуто для $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor is off."
+   },
+   "EditorPreviewLabel": {
+      "message": "(підготовча версія)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Уточнення"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Орфографія"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Увімкнути Редактор для $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "Введіть свій коментар"
+   },
+   "FeedbackDontLike": {
+      "message": "Мені дещо не подобається"
+   },
+   "FeedbackLike": {
+      "message": "Мені дещо подобається"
+   },
+   "FeedbackOverall": {
+      "message": "Що б ви хотіли вказати у відгуку?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "Декларація про конфіденційність"
+   },
+   "FeedbackSubmit": {
+      "message": "Надіслати"
+   },
+   "FeedbackSuggestion": {
+      "message": "У мене є пропозиція"
+   },
+   "FeedbackTitle": {
+      "message": "Надсилання відгуку"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "Що саме вам не сподобалося?"
+   },
+   "FeedbackWhatLike": {
+      "message": "Що саме вам сподобалося?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "Що б ви хотіли запропонувати?"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Тип файлу не підтримується. Виберіть документ Word, Excel або PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Завантаження..."
+   },
+   "MoreFilesLabel": {
+      "message": "Інші документи"
+   },
+   "MyAccountLabel": {
+      "message": "Переглянути мій обліковий запис"
+   },
+   "NextLabel": {
+      "message": "Вхід"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Більше не показувати"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Ми зберегли файл у папці \"Розширення Office\" у вашому сховищі OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Ми зберегли файл у папці \"Розширення Office\" у вашому сховищі \"OneDrive для бізнесу\"."
+   },
+   "NotificationFileAccess": {
+      "message": "У настройках розширень Chrome установіть прапорець \"Дозволити доступ до URL-адрес файлів\", щоб дозволити перетягувати файли до браузера Chrome."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Розширення для браузера Office не вдалося відкрити документ через розмір.  Будь ласка завантажити безпосередньо OneDrive для відкриття документа."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "На жаль, не вдалося відкрити файл."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "На жаль, не вдалося відкрити файл. Спробуйте ще раз пізніше."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "На жаль, не вдалося відкрити файл. Виберіть файл, створений у програмах Word, Excel або PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Триває передавання ваших документів."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Можливо, термін дії вашої передплати на Office 365 завершився, або до неї не входить служба \"OneDrive для бізнесу\". Перевірте передплату або ввійдіть за допомогою облікового запису Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Увійдіть у розширення, щоб переглядати та редагувати файли у вебпрограмах Office."
+   },
+   "NotificationSetDefault": {
+      "message": "У програмі \"Файли\" торкніться документа двома пальцями, щоб відкрити його в Office."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Виберіть файл, створений у програмі Word, Excel або PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Розширення Office відкриває документ у браузері"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Більше не показувати"
+   },
+   "O365FilesLabel": {
+      "message": "З \"OneDrive для бізнесу\""
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "Відсутнє підключення до мережі. Відновіть підключення, щоб скористатися розширенням Office для браузера Chrome."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Зі сховища OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Відкрити"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Нещодавні"
+   },
+   "SettingsLabel": {
+      "message": "Параметри"
+   },
+   "ShareMessage": {
+      "message": "Поділитися"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Потрібен дозвіл"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Ви не маєте дозволу надавати спільний доступ"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Де потрібно зберігати файли?"
+   },
+   "SignInLabel": {
+      "message": "Вхід"
+   },
+   "SignInMSALabel": {
+      "message": "Увійти за допомогою облікового запису Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Увійти за допомогою робочого чи навчального облікового запису"
+   },
+   "SignOutLabel": {
+      "message": "Вихід"
+   },
+   "SupportPageLabel": {
+      "message": "Потрібна допомога, щоб увійти в систему?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Дані, що допоможуть нам вдосконалити наші продукти, надсилатимуться автоматично."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Turn on Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Передати до \"OneDrive для бізнесу\""
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Передати до OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Вхід не виконано"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Відкривати файли Office безпосередньо в браузері за допомогою Office"
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "Вилучити"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Додати ще один сайт"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Заблокувати Редактор для ще одного сайту"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Скасувати додавання сайту до списку заблокованих"
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Додати сайт до списку заблокованих"
+   },
+   "ebx_appDescription": {
+      "message": "Перевірка орфографії, граматики та стилю під час введення тексту в браузері на більшості веб-сайтів."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "Перегляд, редагування та створення файлів Office у браузері та перевірка орфографії, граматики й стилю під час введення тексту в браузері на більшості веб-сайтів."
+   },
+   "ebx_appLongDescription": {
+      "message": "Редактор – це ваш помічник із написання. Він підкреслює орфографічні, граматичні та стилістичні проблеми червоним, синім і золотим кольором, відповідно. Наведіть указівник миші на підкреслене слово та виберіть потрібну пропозицію або перегляньте докладні відомості про помилку та про те, як її виправити.\r\n\r\nТворіть упевнено. Редактор містить розширені засоби перевірки правопису для передплатників Office 365. За лаштунками розумні служби виявляють орфографічні, граматичні та стилістичні проблеми.\r\n\r\nІнсталюючи цю програму, ви погоджуєтеся з такими умовами та положеннями: https://aka.ms/editorchromeextensionterms\r\n\r\nПолітика конфіденційності: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Редактор додає на панель інструментів Microsoft Edge піктограму, що активує розширену перевірку правопису.\r\n\r\nІнсталюючи програму, ви погоджуєтеся з цими умовами та положеннями: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "Редактор у браузері"
+   },
+   "ebx_appShortName": {
+      "message": "Редактор"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Замінити на"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "message": "Редактор Microsoft"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Емблема Редактора Microsoft"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "Перевірка правопису на платформі Office"
+   },
+   "ebx_buyNow": {
+      "message": "Buy now"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "Скасувати"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Змінити все"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Налаштування Редактора…"
+   },
+   "ebx_checkForRefinements": {
+      "message": "Перевірити літературні правки"
+   },
+   "ebx_checkGrammar": {
+      "message": "Перевірити граматику"
+   },
+   "ebx_checkSpelling": {
+      "message": "Перевірити орфографію"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Уже незабаром"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Корпорація Майкрософт, 2019 рік"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[Видалити повторюване слово]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Цей сайт уже в списку заблокованих"
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "Перейти до параметрів Редактора"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Розширення Microsoft Office для браузера тепер включає Редактор, який перевіряє введений на більшості веб-сайтів текст і пропонує зміни за допомогою онлайнової служби."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Зараз запущено Редактор Microsoft (підготовча версія)"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "Редактор доступний у вигляді підготовчої версії для внутрішнього використання Microsoft. Відгуки та повідомлення про помилки слід надсилати на адресу "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "Editor Writing Refinements"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Отримайте розширені ідеї для написання редактора, 1 ТБ простору в сховищі OneDrive і функції Premium у всіх додатках Office 365."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "Advanced Grammar"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "Basic Grammar"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "Clarity"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "Conciseness"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "Formal language"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word, Excel, PowerPoint, Outlook"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "Web-only"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "Premium desktop and mobile apps"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "OneDrive cloud storage"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "5 GB per person"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "1 TB per person with Personal Vault"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "Spelling"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "Vocabulary"
+   },
+   "ebx_goPremiumFree": {
+      "message": "Free"
+   },
+   "ebx_goPremiumLine": {
+      "message": "Спробуйте розширені ідеї для письма в Редакторі."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Перейти на преміум-план"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "Other Microsoft Benefits"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "Get more from Editor with Office 365"
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "With Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Приховати синоніми"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Пропустити все"
+   },
+   "ebx_learnMore": {
+      "message": "Докладніше"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Інші команди"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Налаштування Редактора"
+   },
+   "ebx_preview": {
+      "message": "(підготовча версія)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Мова перевірки правопису"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Виберіть мову перевірки правопису"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "Зберегти"
+   },
+   "ebx_settings": {
+      "message": "Параметри"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "Показати пропозиції з виправлення орфографічних і граматичних помилок"
+   },
+   "ebx_showSynonyms": {
+      "message": "Показати синоніми"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Відображати синоніми в пропозиціях із перевірки правопису"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Інші дії"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Вимкнути Редактор"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Редактор – це онлайнова служба, яка аналізує вміст і надає пропозиції."
+   },
+   "ebx_userBlockedSites": {
+      "message": "Заблоковані сайти"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Неприпустима URL-адреса"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Неприпустима URL-адреса \"$url$\" у рядку $line$.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Ви вимкнули перевірку правопису на наведених нижче сайтах. Редактор може автоматично вимикатися на інших сайтах, що містять делікатні матеріали або повільно завантажуються."
+   }
+}

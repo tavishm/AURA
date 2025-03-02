@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "Hesap"
+   },
+   "AppDescription": {
+      "message": "Office belgelerinizi tarayıcınızda görüntüleyin, düzenleyin ve oluşturun."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "Office uzantısı"
+   },
+   "AppListLabel": {
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "message": "Chrome için Oluşturuldu – Office yüklemeye gerek kalmadan Word, Excel, PowerPoint, OneNote ve Sway Online kullanın.\r\n\r\nGüvenle oluşturun – Fikirlerinizi en uygun şekilde ifade etmek için tanıdık biçimlendirme ve düzen seçeneklerini kullanın.\r\n\r\nHareket halindeyken çalışın – OneDrive ve OneDrive İş tümleştirmesi sayesinde dosyalarınıza her yerden erişin.\r\n\r\nUygulamayı yükleyerek, bu hüküm ve koşulları kabul etmiş olursunuz: http://aka.ms/officechromeextensionterms\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Office tarayıcı uzantısı, Microsoft Edge araç çubuğuna bir simge yerleştirerek, çevrimiçi ortamda veya bilgisayarınızda depolanmalarına bağlı olmadan Office dosyalarına doğrudan erişim sunar.\r\n\r\nOffice web uzantısı OneDrive ve OneDrive İş'te depolanan dosyaları açabilir.\r\n\r\nOffice'i yüklemeye gerek olmadan Word, Excel, PowerPoint, OneNote ve Sway özelliklerini doğrudan tarayıcınızda kullanabilirsiniz.\r\n\r\nUygulamayı yükleyerek bu hüküm ve koşulları kabul edersiniz: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "Office tarayıcı uzantısı"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "Karşıya Yükle ve Aç..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Hesap oluştur"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Yakın zamanda görüntülenen belge yok."
+   },
+   "CreateNewLabel": {
+      "message": "Yeni"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$ sayfasında Düzenleyiciyi Devre Dışı Bırak",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Şu anda son kullanılan belgelerinizin listesini alamıyoruz."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Dil Bilgisi"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Düzenleyici şu anda $host$ sayfasında desteklenmiyor",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Düzenleyici şu anda $host$ sayfasında devre dışı bırakıldı",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Düzenleyici kapalı."
+   },
+   "EditorPreviewLabel": {
+      "message": "(Önizleme)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "İyileştirmeler"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Yazım Denetimi"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$ sayfasında Düzenleyiciyi Etkinleştir",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "Lütfen yorumunuzu yazın"
+   },
+   "FeedbackDontLike": {
+      "message": "Beğenmediğim şeyler var"
+   },
+   "FeedbackLike": {
+      "message": "Beğendiğim şeyler var"
+   },
+   "FeedbackOverall": {
+      "message": "Ne tür bir geri bildirimde bulunmak istersiniz?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "Gizlilik Bildirimi"
+   },
+   "FeedbackSubmit": {
+      "message": "Gönder"
+   },
+   "FeedbackSuggestion": {
+      "message": "Bir önerim var"
+   },
+   "FeedbackTitle": {
+      "message": "Geri bildirim gönder"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "Neleri beğenmediniz?"
+   },
+   "FeedbackWhatLike": {
+      "message": "Neleri beğendiniz?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "Ne önerirsiniz?"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Dosya türü desteklenmiyor. Lütfen Word, Excel veya PowerPoint belgesi seçin."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Yükleniyor..."
+   },
+   "MoreFilesLabel": {
+      "message": "Diğer belgeler"
+   },
+   "MyAccountLabel": {
+      "message": "Hesabımı Görüntüle"
+   },
+   "NextLabel": {
+      "message": "Oturum açın"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Bunu bir daha gösterme"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Dosyanız OneDrive içindeki \"Office uzantısı\" klasörünüze kaydedildi."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Dosyanız OneDrive İş içindeki \"Office uzantısı\" klasörünüze kaydedildi."
+   },
+   "NotificationFileAccess": {
+      "message": "Dosyaları sürükleyip Chrome'a bırakmak istiyorsanız Chrome uzantısı ayarlarında \"Dosya URL'lerine erişime izin ver\" onay kutusunu seçin."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Tarayıcı uzantısı Office belgeniz boyutu nedeniyle açamıyor.  Lütfen belgeyi açmak için doğrudan için OneDrive yükleyin."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Ne yazık ki dosyanızı açamadık."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Ne yazık ki dosyanızı açamadık. Lütfen daha sonra yeniden deneyin."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Ne yazık ki dosyanızı açamadık. Lütfen Word, Excel veya PowerPoint ile oluşturulan bir dosya seçin"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Belgeleriniz şu anda karşıya yükleniyor."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Office 365 aboneliğinizin süresi dolmuş veya aboneliğiniz OneDrive İş'i içermiyor olabilir. Aboneliğinizi denetleyin veya bir Microsoft Hesabıyla oturum açın."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Dosyaları web üzerinde Office'te görüntülemek ve düzenlemek için uzantıda oturum açın."
+   },
+   "NotificationSetDefault": {
+      "message": "Office ile açmak için, Dosyalar uygulamasında belgelere iki parmakla dokunun."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel veya PowerPoint ile oluşturulan bir dosya seçin."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Office uzantısı, belgenizi tarayıcıda açıyor"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Bunu bir daha gösterme"
+   },
+   "O365FilesLabel": {
+      "message": "OneDrive İş'ten"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "Çevrimdışısınız. Chrome için Office tarayıcı uzantısını kullanmak için lütfen yeniden bağlanın."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive'dan"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Açık"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Son"
+   },
+   "SettingsLabel": {
+      "message": "Ayarlar"
+   },
+   "ShareMessage": {
+      "message": "Paylaş"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "İzin gerekiyor"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Paylaşmak için izniniz yok"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Dosyalarınızı nereye kaydetmek istiyorsunuz?"
+   },
+   "SignInLabel": {
+      "message": "Oturum açın"
+   },
+   "SignInMSALabel": {
+      "message": "Bir Microsoft hesabıyla oturum açın"
+   },
+   "SignInO365Label": {
+      "message": "Bir iş veya okul hesabıyla oturum açın"
+   },
+   "SignOutLabel": {
+      "message": "Oturumu kapat"
+   },
+   "SupportPageLabel": {
+      "message": "Oturum Açmak için Yardıma mı İhtiyacınız Var?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Ürünlerimizi geliştirmemize yardımcı olmak üzere verileri otomatik olarak gönder."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Düzenleyiciyi Aç"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "OneDrive İş'e yükle"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive'a Yükle"
+   },
+   "UsernameLabel": {
+      "message": "Oturum açılmamış"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Office dosyalarını Office ile doğrudan tarayıcıda aç."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "Kaldır"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Başka site ekle"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Düzenleyiciyi başka bir sitede engelle"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Siteyi engellenen siteler listesine eklemeyi iptal edin."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Siteyi engellenen siteler listesine ekleyin"
+   },
+   "ebx_appDescription": {
+      "message": "Çoğu web sitesinde tarayıcıda metin yazarken yazım, dil bilgisi ve stil denetimi yapın."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "Tarayıcı içinden Office dosyalarını görüntüleyin, düzenleyin ve oluşturun. Çoğu web sitesinde metin yazarken yazım, dil bilgisi ve stil denetimi yapın."
+   },
+   "ebx_appLongDescription": {
+      "message": "Düzenleyici, yazma yardımcınızdır. Yazım denetimi, dil bilgisi ve stil sorunlarını sırasıyla kırmızı, mavi ve sarı renkte altı çizili olarak işaretler. Altı çizili sözcüğün üzerine geldiğinizde istediğiniz öneriyi seçebilir veya hata ve nasıl düzeltileceği hakkında daha fazla bilgi edinebilirsiniz.\r\n\r\nGüvenle içerik oluşturun. Düzenleyici, Office 365 aboneleri için gelişmiş yazım denetleme araçları sağlar. Arka plandaki akıllı hizmetler yazım denetimi, dil bilgisi ve stil sorunlarını belirler.\r\n\r\nUygulamayı yüklediğinizde şu hüküm ve koşulları kabul etmiş olursunuz: https://aka.ms/editorchromeextensionterms\r\n\r\nGizlilik İlkesi: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Düzenleyici, Microsoft Edge araç çubuğuna yazım denetimi yapmanızı sağlayan bir simge yerleştirir.\r\n\r\nUygulamayı yüklediğinizde şu hüküm ve koşulları kabul etmiş olursunuz: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "Tarayıcıda Düzenleyici"
+   },
+   "ebx_appShortName": {
+      "message": "Düzenleyici"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Şununla değiştir:"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Düzenleyici"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft Düzenleyici logosu"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "Yazım denetleme Office tarafında güçlendirilmiştir"
+   },
+   "ebx_buyNow": {
+      "message": "Şimdi satın alın"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "İptal"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Tümünü Değiştir"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Düzenleyici ayarları..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Geliştirmeleri denetle"
+   },
+   "ebx_checkGrammar": {
+      "message": "Dil bilgisini denetle"
+   },
+   "ebx_checkSpelling": {
+      "message": "Yazımı denetle"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Çok yakında"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[Yinelenen sözcüğü sil]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Bu site zaten engellenen siteler listesinde"
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "Ayarlara git"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office tarayıcı uzantısı şimdi Düzenleyici'yi de içeriyor. Düzenleyici, çoğu web sitesinde yazımınızı denetleyen ve yazarken öneride bulunan bir çevrimiçi hizmeti kullanır."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Düzenleyici (Önizleme) şimdi çalışıyor"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "Düzenleyici, Microsoft Dahili Önizleme olarak kullanılabilir. Lütfen geri bildirim ve hataları "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "Düzenleyici Yazım İyileştirmeleri"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Tüm Office 365 uygulamalarında Editörün gelişmiş yazma fikirlerini, 1 TB OneDrive depolama sını ve premium özelliklerini edinin."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "Gelişmiş Dil Bilgisi"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "Temel Dil Bilgisi"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "Netlik"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "Kısa anlatım"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "Resmi dil"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word, Excel, PowerPoint, Outlook"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "Yalnızca web"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "Premium masaüstü ve mobil uygulamaları"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "OneDrive bulut depolama alanı"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "Kişi başına 5 GB"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "Kişisel Kasa ile kişi başına 1 TB"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "Yazım Denetimi"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "Sözcük Dağarcığı"
+   },
+   "ebx_goPremiumFree": {
+      "message": "Ücretsiz"
+   },
+   "ebx_goPremiumLine": {
+      "message": "Düzenleyici'nin gelişmiş yazma önerilerini deneyin."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Premium'a geçin"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "Diğer Microsoft Avantajları"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "Office 365 ile Düzenleyici'den daha fazla yararlanın"
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "Office 365 ile"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Eş anlamlıları gizle"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Tümünü yoksay"
+   },
+   "ebx_learnMore": {
+      "message": "Daha fazla bilgi"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Diğer komutlar"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Düzenleyici Ayarları"
+   },
+   "ebx_preview": {
+      "message": "(Önizleme)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Yazım denetleme dili"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Yazım denetleme dilini seçin"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "Kaydet"
+   },
+   "ebx_settings": {
+      "message": "Ayarlar"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "Yazım ve dil bilgisi önerilerini göster"
+   },
+   "ebx_showSynonyms": {
+      "message": "Eş anlamlıları göster"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Yazım önerilerinde eş anlamlıları göster"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Diğer eylemler"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Düzenleyiciyi kapat"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Düzenleyici, öneriler sunmak için içeriğinizi analiz eden çevrimiçi bir hizmettir."
+   },
+   "ebx_userBlockedSites": {
+      "message": "Engellenen siteler"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Geçersiz URL"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "$line$ satırındaki \"$url$\" URL'si geçersiz.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Aşağıda listelenen sitelerde yazım denetimini devre dışı bıraktınız. Düzenleyici, hassas içerik barındıran veya yavaş yüklenen diğer sitelerde otomatik olarak devre dışı bırakılmış olabilir."
+   }
+}

@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Visa, redigera och skapa Office-dokument i webbläsaren."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "Office-tillägg"
+   },
+   "AppListLabel": {
+      "message": "Webbappar"
+   },
+   "AppLongDescription": {
+      "message": "Skapad för Chrome – Använd Word, Excel, PowerPoint, OneNote och Sway Online utan att behöva ha Office installerat.\r\n\r\nSkapa i en miljö du känner igen – Använd bekanta format- och layoutalternativ för att uttrycka dina idéer exakt.\r\n\r\nArbeta på resande fot – Hämta filerna var de än finns, tack vare integrering med OneDrive och OneDrive för företag.\r\n\r\nGenom att installera appen godkänner du följande villkor: http://aka.ms/officechromeextensionterms\r\n\r\nSekretesspolicy: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Med Office webbläsartillägg läggs en ikon i verktygsfältet Microsoft Edge som ger dig direkt tillgång till Office-filer, om de är lagrade online eller på din dator.\r\n\r\nMed Office-webbtillägg kan du öppna filer som lagras i OneDrive och OneDrive för företag.\r\n\r\nDu får funktionerna i Word, Excel, PowerPoint, OneNote och Sway direkt i webbläsaren utan att installera Office.\r\n\r\nGenom att installera appen godkänner du villkoren: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "Office-webbläsartillägg"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "Ladda upp och öppna..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Skapa ett konto"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Inga nyligen visade dokument."
+   },
+   "CreateNewLabel": {
+      "message": "Nytt"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Inaktivera redigerare på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Det går inte att hämta listan med senast använda dokument just nu."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatik"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Redigerare stöds för närvarande inte på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Redigeraren är för närvarande inaktiverad på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Redigeraren är avstängd."
+   },
+   "EditorPreviewLabel": {
+      "message": "(Förhandsversion)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Förbättringar"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Stavning"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktivera redigerare på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "Skriv din kommentar"
+   },
+   "FeedbackDontLike": {
+      "message": "Det finns något jag inte gillar"
+   },
+   "FeedbackLike": {
+      "message": "Jag gillar något"
+   },
+   "FeedbackOverall": {
+      "message": "Vilken typ av feedback har du?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "Sekretesspolicy"
+   },
+   "FeedbackSubmit": {
+      "message": "Skicka"
+   },
+   "FeedbackSuggestion": {
+      "message": "Jag har ett förslag"
+   },
+   "FeedbackTitle": {
+      "message": "Skicka feedback"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "Vad är det du inte gillar?"
+   },
+   "FeedbackWhatLike": {
+      "message": "Vad gillade du?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "Vad har du för förslag?"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Filtypen stöds inte. Välj ett Word-, Excel- eller PowerPoint-dokument."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Läser in..."
+   },
+   "MoreFilesLabel": {
+      "message": "Fler dokument"
+   },
+   "MyAccountLabel": {
+      "message": "Visa mitt konto"
+   },
+   "NextLabel": {
+      "message": "Logga in"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Visa inte detta meddelande igen"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Filen har sparats i mappen Office-tillägg på OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Filen har sparats i mappen Office-tillägg på OneDrive för företag."
+   },
+   "NotificationFileAccess": {
+      "message": "I inställningarna för Chrome-tillägget markerar du \"Tillåt åtkomst till fil-URL:er\" om du vill dra och släppa filer i Chrome."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Office webbläsartillägg kan inte öppna dokumentet på grund av storleken.  Överför direkt till OneDrive att öppna dokumentet."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Det går inte att öppna filen."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Det går inte att öppna filen.  Försök igen senare."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Det går inte att öppna filen.  Välj en fil som har skapats med Word, Excel eller PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Ett eller flera dokument laddas upp."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Din Office 365-prenumeration kan ha gått ut eller innehåller kanske inte OneDrive för företag. Kontrollera prenumerationen eller logga in med ett Microsoft-konto istället."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Logga in på tillägget om du vill visa och redigera filer i Office på webben."
+   },
+   "NotificationSetDefault": {
+      "message": "Tryck på dokument med två fingrar i appen Filer för att öppna dem med Office."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Välj en fil som har skapats med Word, Excel eller PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Office-tillägget öppnar dokumentet i webbläsaren"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Visa inte detta meddelande igen"
+   },
+   "O365FilesLabel": {
+      "message": "Från OneDrive för företag"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "Du är offline. Anslut igen om du vill använda Office-webbläsartillägget för Chrome."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Från OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Öppna"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Senaste"
+   },
+   "SettingsLabel": {
+      "message": "Inställningar"
+   },
+   "ShareMessage": {
+      "message": "Dela"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Behörighet krävs"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Du har inte behörighet att dela"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Var vill du spara dina filer?"
+   },
+   "SignInLabel": {
+      "message": "Logga in"
+   },
+   "SignInMSALabel": {
+      "message": "Logga in med ditt Microsoft-konto"
+   },
+   "SignInO365Label": {
+      "message": "Logga in med ett arbets- eller skolkonto"
+   },
+   "SignOutLabel": {
+      "message": "Logga ut"
+   },
+   "SupportPageLabel": {
+      "message": "Behöver du hjälp med att logga in?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Skicka data automatiskt för att hjälpa oss att förbättra våra produkter."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Aktivera redigeraren"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Ladda upp till OneDrive för företag"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Ladda upp till OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Inte inloggad"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Öppna Office-filer direkt i webbläsaren med Office."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "Ta bort"
+   },
+   "ebx_addAnotherSite": {
+      "message": "Lägg till en annan webbplats"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "Blockera redigeraren på en annan webbplats"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "Avbryt tillägg av webbplats i listan över blockerade webbplatser."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "Lägg till webbplatsen i listan över blockerade webbplatser"
+   },
+   "ebx_appDescription": {
+      "message": "Få stavnings-, grammatik- och slutkontroll i webbläsaren medan du skriver på de flesta webbplatser."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "Visa, redigera och skapa Office-filer i webbläsaren och få stavning, grammatik & stil kontrollera när du skriver över de flesta webbplatser."
+   },
+   "ebx_appLongDescription": {
+      "message": "Editor är din skrivassistent – Editor markerar problem med röd, blå eller guldfärgad understrykning för problem med stavning, grammatik respektive stilistik. Hovra över det understrukna ordet och välj sedan det förslag du vill ha, eller lär dig mer om felet och hur du rättar det.\r\n\r\nSkapa självsäkert – Editor ger förbättrade språkverktyg för Office 365-prenumeranter. Bakom kulisserna identifierar intelligenta tjänster problem med stavning, grammatik och stilistik.\r\n\r\nGenom att installera appen godkänner du dessa villkor: https://aka.ms/editorchromeextensionterms\r\n\r\nSekretesspolicy: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "Editor placerar en ikon i Microsoft Edge-verktygsfältet som aktiverar avancerad språkkontroll.\r\n\r\nGenom att installera appen godkänner du dessa villkor: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "Editor i webbläsaren"
+   },
+   "ebx_appShortName": {
+      "message": "Editor"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "Ersätt med"
+   },
+   "ebx_asInSynonyms": {
+      "message": "liknar"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Editor"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft Editor-logotypen"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "Språkkontroll drivs av Office"
+   },
+   "ebx_buyNow": {
+      "message": "Köp nu"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "Avbryt"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "Ändra alla"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "Editor-inställningar..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "Sök efter finjusteringar"
+   },
+   "ebx_checkGrammar": {
+      "message": "Kontrollera grammatik"
+   },
+   "ebx_checkSpelling": {
+      "message": "Kontrollera stavning"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "Kommer snart"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[Ta bort upprepat ord]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "Den här webbplatsen finns redan på listan över blockerade webbplatser"
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "Gå till redigerarinställningarna"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "Microsoft Office-webbläsartilläget innehåller nu Editor, som använder en onlinetjänst som kontrollerar det du skriver och ger förslag medan du skriver på de flesta webbplatserna."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Editor (förhandsversion) körs nu"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "Redigeraren finns som en intern Microsoft-förhandsgranskning. Skicka feedback och buggar till "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "Finjusteringar för skrivning i Editor"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "Få redigerarens avancerade Skriv idéer, 1 TB lagringsutrymme på OneDrive och premiumfunktioner i alla Office 365-appar."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "Avancerad grammatik"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "Grundläggande grammatik"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "Tydlighet"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "Korthet"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Interpunktionskonventioner"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "Formellt språk"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word, Excel, PowerPoint, Outlook"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "Endast webb"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "Premium skrivbords- och mobilappar"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "Molnlagringsutrymme i OneDrive"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "5 GB per person"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "1 TB per person med Personligt valv"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "Stavning"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "Ordlista"
+   },
+   "ebx_goPremiumFree": {
+      "message": "Kostnadsfritt"
+   },
+   "ebx_goPremiumLine": {
+      "message": "Prova de avancerade skrividéerna i Editor."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "Välj Premium"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "Andra Microsoft-förmåner"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "Få ut mer av Editor med Office 365"
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "Med Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "message": "Dölj synonymer"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "Ignorera alla"
+   },
+   "ebx_learnMore": {
+      "message": "Mer information"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "Fler kommandon"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "Editor-inställningar"
+   },
+   "ebx_preview": {
+      "message": "(Förhandsversion)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "Språk för språkkontroll"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "Välj ett språk för språkkontroll"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "Spara"
+   },
+   "ebx_settings": {
+      "message": "Inställningar"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "Visa stavnings- och grammatikförslag"
+   },
+   "ebx_showSynonyms": {
+      "message": "Visa synonymer"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "Visa synonymer i stavningsförslag"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "Fler åtgärder"
+   },
+   "ebx_turnOffEditor": {
+      "message": "Stäng av Editor"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editor är en onlinetjänst som analyserar ditt innehåll för att ge förslag."
+   },
+   "ebx_userBlockedSites": {
+      "message": "Blockerade webbplatser"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "Ogiltig URL"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "Ogiltig URL \"$url$\" på rad $line$.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "Du har inaktiverat korrekturläsning på de webbplatser som anges nedan. Redigeraren kan inaktiveras automatiskt på ytterligare webbplatser med känsligt innehåll eller långsam inläsningshastighet."
+   }
+}

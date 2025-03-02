@@ -1,0 +1,47 @@
+{
+   "app": {
+      "icon_color": "#BE3C1C",
+      "launch": {
+         "web_url": "https://onedrive.live.com/edit.aspx?resid=F5E3A1C0CFE2F2!477&ithint=file%2cpptx&PreviousSessionID=427fde28-c7f8-47b3-bbfc-c2f15f2e6c23"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 24,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 32,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 48,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 64,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 96,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 128,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      }, {
+         "size": 256,
+         "url": "https://c1-powerpoint-15.cdn.office.net/p/resources/1033/FavIcon_Ppt.ico"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "24": "icons/24.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "/pKIszTHptnmWYriIky5xsgaqSNi0vszNkbNcwIslSQ=",
+   "name": "A-Robot-For-Senior-Citizens",
+   "version": "2019.11.5.18303"
+}

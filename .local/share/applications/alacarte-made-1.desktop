@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Motor Server
+Exec=/home/pi/motser.sh
+Type=Application
+Icon=gnome-panel-launcher

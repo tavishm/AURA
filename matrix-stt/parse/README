@@ -1,0 +1,4 @@
+This folder contains code to stream audio to ASR models.
+
+Alpha implementation: The audio stream is picked, transcribed with ASR and fed to the UMLS server which will return the map to intent.
+The voice data recorded is stored in record folder

@@ -1,0 +1,4 @@
+
+CT_PHONE='91'
+CT_NAME='Oldy'
+ENABLE_SMS=False

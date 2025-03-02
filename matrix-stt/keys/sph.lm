@@ -1,0 +1,33 @@
+\data\
+ngram 1=7
+ngram 2=9
+ngram 3=5
+
+\1-grams:
+-0.8129 </s> -0.3010
+-0.8129 <s> -0.2285
+-1.4150 AS -0.2840
+-1.4150 ASTERIX -0.2285
+-1.4150 ASTICKS -0.2285
+-1.4150 ASTRIX -0.2285
+-1.4150 TRICKS -0.2285
+
+\2-grams:
+-0.9031 <s> AS 0.0000
+-0.9031 <s> ASTERIX 0.0000
+-0.9031 <s> ASTICKS 0.0000
+-0.9031 <s> ASTRIX 0.0000
+-0.3010 AS TRICKS 0.0000
+-0.3010 ASTERIX </s> -0.3010
+-0.3010 ASTICKS </s> -0.3010
+-0.3010 ASTRIX </s> -0.3010
+-0.3010 TRICKS </s> -0.3010
+
+\3-grams:
+-0.3010 <s> AS TRICKS
+-0.3010 <s> ASTERIX </s>
+-0.3010 <s> ASTICKS </s>
+-0.3010 <s> ASTRIX </s>
+-0.3010 AS TRICKS </s>
+
+\end\

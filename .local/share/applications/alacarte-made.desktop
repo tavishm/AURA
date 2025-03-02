@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=
+Terminal=true
+Name=Display Server
+Exec=/home/pi/disp.sh
+Type=Application
+Icon=gnome-panel-launcher
+X-KeepTerminal=true
+StartupNotify=true

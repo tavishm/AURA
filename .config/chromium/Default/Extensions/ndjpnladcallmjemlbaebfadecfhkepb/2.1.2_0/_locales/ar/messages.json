@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "الحساب"
+   },
+   "AppDescription": {
+      "message": "أنشئ مستندات Office وحررها واعرضها في مستعرضك."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "ملحق Office"
+   },
+   "AppListLabel": {
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "message": "مصمم لمستعرض Chrome – يمكن استخدام Word وExcel وPowerPoint وOneNote وSway Online دون الحاجة إلى تثبيت Office.\r\n\r\nإنشاء بثقة – يمكنك استخدام خيارات التنسيق والتخطيط المألوفة للتعبير عن الأفكار بدقة تامة.\r\n\r\nالعمل أثناء التنقل - يمكنك الوصول إلى ملفاتك من أي مكان، بفضل التكامل مع OneDrive وOneDrive for Business.\r\n\r\nبتثبيت التطبيق، فأنت توافق على هذه البنود والشروط: http://aka.ms/officechromeextensionterms\r\n\r\nنهج الخصوصية: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "يضع ملحق مستعرض Office أيقونة ضمن شريط أدوات Microsoft Edge تتيح لك الوصول مباشرة إلى ملفات Office، سواء كانت مخزنة على الإنترنت أو على جهاز الكمبيوتر الخاص بك.\r\n\r\nيمكن لملحق ويب Office فتح الملفات المخزنة في OneDrive وOneDrive for Business.\r\n\r\nيمكنك الحصول على ميزات Word وExcel وPowerPoint وOneNote وSway في المستعرض لديك دون الحاجة إلى تثبيت Office.\r\n\r\nبتثبيت التطبيق، أنك توافق على هذه البنود والشروط: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "ملحق مستعرض Office"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "تحميل وفتح..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "إنشاء حساب"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "لا توجد مستندات معروضة مؤخراً."
+   },
+   "CreateNewLabel": {
+      "message": "جديد"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "تعطيل المحرر في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "لا يمكن إحضار قائمة مستنداتك الأخيرة الآن."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "تدقيق نحوي"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "المحرر غير مدعم حالياً في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "المحرر معطل حالياً في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "المحرر قيد إيقاف التشغيل."
+   },
+   "EditorPreviewLabel": {
+      "message": "(معاينة)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "التحسينات"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "تدقيق إملائي"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "تمكين المحرر في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "الرجاء كتابة تعليقك"
+   },
+   "FeedbackDontLike": {
+      "message": "أنا لا أحب شيء ما"
+   },
+   "FeedbackLike": {
+      "message": "أحب شيء ما"
+   },
+   "FeedbackOverall": {
+      "message": "ما هو نوع الملاحظات لديك؟"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "بيان الخصوصية"
+   },
+   "FeedbackSubmit": {
+      "message": "إرسال"
+   },
+   "FeedbackSuggestion": {
+      "message": "لدي اقتراح"
+   },
+   "FeedbackTitle": {
+      "message": "إرسال ملاحظات"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "ما الذي لم يعجبك؟"
+   },
+   "FeedbackWhatLike": {
+      "message": "ما الذي أعجبك؟"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "ماذا تقترح؟"
+   },
+   "FileTypeErrorMessage": {
+      "message": "نوع الملف غير معتمد. الرجاء اختيار مستند Word أو Excel أو PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "يتم الآن التحميل..."
+   },
+   "MoreFilesLabel": {
+      "message": "مستندات إضافية"
+   },
+   "MyAccountLabel": {
+      "message": "عرض حسابي"
+   },
+   "NextLabel": {
+      "message": "تسجيل الدخول"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "عدم إظهار ذلك مرة أخرى"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "تم حفظ ملفك في المجلد \"ملحق Office\" على OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "تم حفظ ملفك في المجلد \"ملحق Office\" على OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "في إعدادات ملحق Chrome، حدد خانة الاختيار \"السماح بالوصول إلى عناوين URL الخاصة بالملفات\" إذا كنت تريد سحب الملفات وإفلاتها داخل Chrome."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "يتعذر على ملحق مستعرض Office فتح المستند بسبب الحجم.  الرجاء التحميل مباشرة إلى OneDrive لفتح المستند."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "عذراً، تعذر فتح ملفك."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "عذراً، تعذر فتح ملفك.  الرجاء المحاولة مرة أخرى في وقت لاحق."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "عذراً، تعذر فتح ملفك.  الرجاء اختيار ملف تم إنشاؤه باستخدام Word أو Excel أو PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "يتم الآن تحميل المستندات الخاصة بك."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "ربما تكون صلاحية اشتراكك في Office 365 قد انتهت أو قد لا يتضمن اشتراكك OneDrive for Business. تحقق من اشتراكك أو سجّل الدخول باستخدام حساب Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "سجّل الدخول إلى الملحق لعرض الملفات وتحريرها في Office على الويب."
+   },
+   "NotificationSetDefault": {
+      "message": "في تطبيق \"الملفات\"، اضغط على المستندات باستخدام إصبعين لفتحها على Office Online."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "اختر ملف تم إنشاؤه باستخدام Word أو Excel أو PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "يتم الآن فتح المستند في المستعرض بواسطة ملحق Office"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "عدم إظهار ذلك مرة أخرى"
+   },
+   "O365FilesLabel": {
+      "message": "من OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "أنت غير متصل. الرجاء إعادة الاتصال حتى تتمكن من استخدام ملحق مستعرض Chrome الذي يعمل مع بتطبيقات Office."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "من OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "فتح"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "الأخيرة"
+   },
+   "SettingsLabel": {
+      "message": "إعدادات"
+   },
+   "ShareMessage": {
+      "message": "مشاركة"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "الإذن مطلوب"
+   },
+   "SharePermissionsTooltip": {
+      "message": "ليس لديك الإذن للمشاركة"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "أين تريد حفظ ملفاتك؟"
+   },
+   "SignInLabel": {
+      "message": "تسجيل الدخول"
+   },
+   "SignInMSALabel": {
+      "message": "تسجيل الدخول باستخدام حساب Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "تسجيل الدخول باستخدام حساب خاص بالعمل أو المؤسسة التعليمية"
+   },
+   "SignOutLabel": {
+      "message": "تسجيل الخروج"
+   },
+   "SupportPageLabel": {
+      "message": "هل أنت بحاجة إلى مساعدة في تسجيل الدخول؟"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "الفرق"
+   },
+   "TelemetrySettingLabel": {
+      "message": "إرسال البيانات تلقائياً لمساعدتنا في تحسين منتجاتنا."
+   },
+   "TurnOnEditorLabel": {
+      "message": "تشغيل المحرر"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "تحميل إلى OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "تحميل إلى OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "لم يتم تسجيل الدخول"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "فتح ملفات Office مباشرةً في المستعرض باستخدام Office."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "إزالة"
+   },
+   "ebx_addAnotherSite": {
+      "message": "إضافة موقع آخر"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "إغلاق المحرر على موقع آخر"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "إلغاء إضافة موقع إلى قائمة المواقع المحظورة."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "إضافة موقع إلى قائمة المواقع المحظورة"
+   },
+   "ebx_appDescription": {
+      "message": "تمتع بإمكانية تشغيل التدقيق الإملائي والنحوي والأسلوبي أثناء الكتابة في المستعرض عبر معظم مواقع الويب."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "إنشاء ملفات Office وتحريرها وعرضها داخل المتصفح والحصول على التدقيق الإملائي والنحوي والنمطي الذي تكتبه عبر معظم مواقع الويب."
+   },
+   "ebx_appLongDescription": {
+      "message": "المحرر هو مساعدك في الكتابة – يقوم المحرر بوضع تسطير باللون الأحمر أو الأزرق أو الذهبي أسفل المشاكل الإملائية والنحوية والنمطية، على التوالي. مرر مؤشر الماوس فوق الكلمة المسطرة، ثم اختر الاقتراح الذي تريده، أو تعرّف على المزيد عن الخطأ وكيفية تصحيحه.\r\n\r\nالإنشاء بثقة – يوفر المحرر أدوات تدقيق محسنة لمشتركي Office 365. وراء الكواليس، تحدد الخدمات الذكية المشاكل الإملائية والنحوية والمتعلقة بالأسلوب.\r\n\r\nبتثبيت التطبيق، فإنك توافق على الشروط والأحكام التالية: https://aka.ms/editorchromeextensionterms\r\n\r\nسياسة الخصوصية: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "يضع المحرر أيقونة على شريط أدوات Microsoft Edge تعمل على تمكين التدقيق المتقدم.\r\n\r\nإن تثبيت التطبيق يعني موافقتك على تلك البنود والشروط: \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "المحرر في المستعرض"
+   },
+   "ebx_appShortName": {
+      "message": "المحرر"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "استبدال بـ"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Editor"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "شعار Microsoft Editor"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "التدقيق مُشغّل بواسطة Office"
+   },
+   "ebx_buyNow": {
+      "message": "الشراء الآن"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "إلغاء الأمر"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "تغيير الكل"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "إعدادات المحرر..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "البحث عن التحسينات"
+   },
+   "ebx_checkGrammar": {
+      "message": "إجراء تدقيق نحوي"
+   },
+   "ebx_checkSpelling": {
+      "message": "تدقيق إملائي"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "قريباً"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[حذف الكلمة المكررة]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "هذا الموقع موجود بالفعل في قائمة \"المواقع المحظورة\""
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "الانتقال إلى إعدادات \"المحرر\""
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "يتضمن ملحق مستعرض Microsoft Office الآن \"المحرر\"، الذي يستخدم خدمة عبر الإنترنت تقوم بالتحقق من الكتابة ويقدم اقتراحات أثناء الكتابة في معظم مواقع الويب."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft Editor (معاينة) قيد التشغيل الآن"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "يتوفر المحرر في صورة معاينة داخلية لـ Microsoft. الرجاء إرسال الملاحظات والأخطاء إلى "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "تحسينات الكتابة بالمحرر"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "احصل علي أفكار الكتابة المتقدمة للمحرر ، وسعه تخزينية تبلغ 1 تيرابايت من OneDrive ، وميزات متميزة في جميع تطبيقات Office 365."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "تدقيق نحوي متقدم"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "تدقيق نحوي أساسي"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "وضوح"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "الإيجاز"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "اللغة الرسمية"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word وExcel وPowerPoint والمزيد."
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "الويب فقط"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "تطبيقات Premium لأجهزة سطح المكتب والأجهزة المحمولة"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "تخزين سحابي على OneDrive"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "سعة 5 غيغابايت لكل مستخدم"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "سعة 1 تيرابايت لكل شخص في مخزن شخصي"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "تدقيق إملائي"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "كلمات"
+   },
+   "ebx_goPremiumFree": {
+      "message": "مجاناً"
+   },
+   "ebx_goPremiumLine": {
+      "message": "تجربة أفكار الكتابة المتقدمة للمحرر."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "الترقية إلى Premium"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "مميزات Microsoft الأخرى"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "الحصول على المزيد من مميزات المحرر مع Office 365"
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "مع Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "message": "إخفاء المرادفات"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "تجاهل الكل"
+   },
+   "ebx_learnMore": {
+      "message": "تعرّف على المزيد"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "مزيد من الأوامر"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "إعدادات المحرر"
+   },
+   "ebx_preview": {
+      "message": "(معاينة)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "لغة التدقيق"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "تحديد لغة التدقيق"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "حفظ"
+   },
+   "ebx_settings": {
+      "message": "الإعدادات"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "إظهار الاقتراحات الإملائية والنحوية"
+   },
+   "ebx_showSynonyms": {
+      "message": "إظهار المرادفات"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "إظهار المرادفات على اقتراحات التدقيق الإملائي"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "مزيد من الإجراءات"
+   },
+   "ebx_turnOffEditor": {
+      "message": "إيقاف تشغيل المحرر"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "المحرر عبارة عن خدمة عبر الإنترنت تقوم بتحليل المحتوى لتقديم اقتراحات."
+   },
+   "ebx_userBlockedSites": {
+      "message": "المواقع المحظورة"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "عنوان url غير صالح"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "عنوان url \"$url$\"في السطر $line$ غير صالح.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "قمت بتعطيل التدقيق على المواقع المذكورة أدناه. قد يكون المحرر معطلاً تلقائياً على المواقع الإضافية ذات المحتوى الحساس أو سرعات التحميل البطيئة."
+   }
+}

@@ -1,0 +1,546 @@
+{
+   "AccountLabel": {
+      "message": "계정"
+   },
+   "AppDescription": {
+      "message": "브라우저에서 Office 문서를 보고 편집하고 만듭니다."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "View, edit and create Office files within the browser and get spelling, grammar & style checking as you type across most websites."
+   },
+   "AppFolderName": {
+      "message": "Office 확장"
+   },
+   "AppListLabel": {
+      "message": "웹앱"
+   },
+   "AppLongDescription": {
+      "message": "Chrome용으로 빌드됨 – Office를 설치하지 않고도 Word, Excel, PowerPoint, OneNote 및 Sway Online을 사용할 수 있습니다.\r\n\r\n편리한 문서 생성 – 익숙한 서식 설정과 레이아웃 옵션을 사용하여 아이디어를 그대로 표현할 수 있습니다.\r\n\r\n이동 중 작업 – OneDrive 및 비즈니스용 OneDrive와의 통합으로 어디서나 파일을 사용할 수 있습니다.\r\n\r\n앱을 설치하면 http://aka.ms/officechromeextensionterms의 사용 약관에 동의하는 것으로 간주됩니다.\r\n\r\n개인 정보취급방침: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Office 브라우저 확장을 사용하면 온라인상에 저장되었거나 컴퓨터에 저장된 Office 파일에 직접 액세스하는 데 사용할 수 있는 아이콘이 Microsoft Edge 도구 모음에 추가됩니다.\r\n\r\nOffice 웹 확장은 OneDrive 및 비즈니스용 OneDrive에 저장된 파일을 열 수 있습니다.\r\n\r\nOffice를 설치할 필요 없이 Word, Excel, PowerPoint, OneNote 및 Sway의 기능을 브라우저에서 바로 사용할 수 있습니다.\r\n\r\n앱을 설치하는 것은 다음 사용 약관에 동의하는 것으로 간주됩니다. \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Office installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nCopy and paste conveniently – Use Copy and Paste buttons on the ribbon and right-click menu, or use keyboard shortcuts for copying and pasting.\r\n\r\nEditor in your browser (Preview) – Get spelling, grammar and style checking within the browser across most websites including LinkedIn, Yammer, Gmail, Facebook and Twitter. Editor uses an online service that analyzes your content to deliver suggestions.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Office"
+   },
+   "AppNameEdge": {
+      "message": "Office 브라우저 확장"
+   },
+   "AppShortName": {
+      "message": "Office"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "BrowseToOpenLabel": {
+      "message": "업로드 및 열기..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "계정 만들기"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "최근에 본 문서가 없습니다."
+   },
+   "CreateNewLabel": {
+      "message": "새로 만들기"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$에서 편집기 사용하지 않음",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "지금은 최근 문서 목록을 가져올 수 없습니다."
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "문법"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "현재 편집기는 $host$에서 지원되지 않습니다.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "현재 편집기는 $host$에서 사용할 수 없습니다.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "편집기가 꺼져 있습니다."
+   },
+   "EditorPreviewLabel": {
+      "message": "(미리 보기)"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "구체화"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "맞춤법 검사"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$에서 편집기 사용",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FeedbackCommentPlaceholder": {
+      "message": "메모를 입력하세요."
+   },
+   "FeedbackDontLike": {
+      "message": "마음에 들지 않는 점이 있습니다."
+   },
+   "FeedbackLike": {
+      "message": "마음에 드는 점이 있습니다."
+   },
+   "FeedbackOverall": {
+      "message": "다음 중 어떤 의견을 가지고 계신가요?"
+   },
+   "FeedbackPrivacyStatement": {
+      "message": "개인정보취급방침"
+   },
+   "FeedbackSubmit": {
+      "message": "제출"
+   },
+   "FeedbackSuggestion": {
+      "message": "제안할 점이 있습니다."
+   },
+   "FeedbackTitle": {
+      "message": "사용자 의견 보내기"
+   },
+   "FeedbackWhatDontLike": {
+      "message": "마음에 들지 않은 점은 무엇이었나요?"
+   },
+   "FeedbackWhatLike": {
+      "message": "마음에 드는 점은 무엇이었나요?"
+   },
+   "FeedbackWhatSuggest": {
+      "message": "제안할 내용은 무엇인가요?"
+   },
+   "FileTypeErrorMessage": {
+      "message": "파일 형식이 지원되지 않습니다. Word, Excel 또는 PowerPoint 문서를 선택하세요."
+   },
+   "LoadingRecentsLabel": {
+      "message": "로드 중..."
+   },
+   "MoreFilesLabel": {
+      "message": "문서 더 보기"
+   },
+   "MyAccountLabel": {
+      "message": "내 계정 보기"
+   },
+   "NextLabel": {
+      "message": "로그인"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "이 내용을 다시 표시하지 않음"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "\"Office 확장\" 폴더의 파일을 OneDrive에 저장했습니다."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "\"Office 확장\" 폴더의 파일을 비즈니스용 OneDrive에 저장했습니다."
+   },
+   "NotificationFileAccess": {
+      "message": "파일을 Chrome으로 끌어서 놓으려면 Chrome 확장 설정에서 \"파일 URL에 대한 액세스 허용\" 확인란을 선택하세요."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Office 브라우저 확장 크기 때문에 문서를 열 수 없습니다. OneDrive에 직접 업로드해 문서를 여세요."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "죄송합니다. 파일을 열 수 없습니다."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "죄송합니다. 파일을 열 수 없습니다. 나중에 다시 시도하세요."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "죄송합니다. 파일을 열 수 없습니다. Word, Excel 또는 PowerPoint에서 만든 파일을 선택하세요."
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "현재 문서를 업로드하는 중입니다."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Office 365 구독이 만료되었거나 비즈니스용 OneDrive를 포함하지 않을 수 있습니다. 구독을 확인하거나 대신 Microsoft 계정으로 로그인하세요."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Office 웹 정보에서 파일을 보고 편집하려면 확장에 로그인하세요."
+   },
+   "NotificationSetDefault": {
+      "message": "[파일] 앱에서 두 손가락으로 문서를 탭하여 Office에서 여세요."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel 또는 PowerPoint를 사용하여 만든 파일을 선택하세요."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Office 확장이 브라우저의 문서를 여는 중입니다."
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "이 내용을 다시 표시하지 않음"
+   },
+   "O365FilesLabel": {
+      "message": "비즈니스용 OneDrive에서"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Office"
+   },
+   "OfflineLabel": {
+      "message": "오프라인 상태입니다. Chrome에서 Office 브라우저 확장을 사용하려면 다시 연결하세요."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive에서"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "열기"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "최근"
+   },
+   "SettingsLabel": {
+      "message": "설정"
+   },
+   "ShareMessage": {
+      "message": "공유"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "사용 권한 필요"
+   },
+   "SharePermissionsTooltip": {
+      "message": "공유할 수 있는 권한이 없습니다."
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "파일을 저장할 위치를 선택하세요."
+   },
+   "SignInLabel": {
+      "message": "로그인"
+   },
+   "SignInMSALabel": {
+      "message": "Microsoft 계정으로 로그인"
+   },
+   "SignInO365Label": {
+      "message": "회사 또는 학교 계정으로 로그인"
+   },
+   "SignOutLabel": {
+      "message": "로그아웃"
+   },
+   "SupportPageLabel": {
+      "message": "로그인 도움이 필요하신가요?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "자동으로 데이터를 보내도록 선택하면 제품 개선에 도움이 됩니다."
+   },
+   "TurnOnEditorLabel": {
+      "message": "편집기 켜기"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "비즈니스용 OneDrive에 업로드"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive에 업로드"
+   },
+   "UsernameLabel": {
+      "message": "로그인되어 있지 않음"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Office를 사용하여 브라우저에서 직접 Office 파일을 엽니다."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   },
+   "ebx_RemoveItem": {
+      "message": "제거"
+   },
+   "ebx_addAnotherSite": {
+      "message": "다른 사이트 추가"
+   },
+   "ebx_addAnotherSiteAriaLabel": {
+      "message": "다른 사이트에서 편집기 차단"
+   },
+   "ebx_addAnotherSiteCancel": {
+      "message": "차단된 사이트 목록에 사이트 추가를 취소합니다."
+   },
+   "ebx_addAnotherSiteSubmit": {
+      "message": "차단된 사이트 목록에 사이트 추가"
+   },
+   "ebx_appDescription": {
+      "message": "대부분의 웹 사이트에서 입력할 때 브라우저 내에서 맞춤법, 문법 및 스타일 검사를 받으세요."
+   },
+   "ebx_appDescriptionWithOffice": {
+      "message": "브라우저 내에서 Office 파일을 보고 편집하고 만들고 대부분의 웹 사이트에서 입력할 때 맞춤법, 문법 및 스타일 검사를 받을 수 있습니다."
+   },
+   "ebx_appLongDescription": {
+      "message": "편집기는 쓰기 도우미입니다. – 편집기는 맞춤법, 문법 및 스타일 오류를 빨간색, 파란색 또는 금색 밑줄로 각 문제를 표시합니다. 밑줄 친 단어 위로 마우스를 가져가서 원하는 제안을 선택하거나 오류 또는 오류 수정 방법에 대해 자세히 알아보세요.\r\n\r\n자신있게 만드세요. – 편집기는 Office 365 구독자를 위해 향상된 언어 교정 도구를 제공합니다. 뒤에서 인텔리전트 서비스는 맞춤법, 문법 및 스타일 문제를 식별합니다.\r\n\r\n이 앱을 설치하면 이 사용 약관에 동의하는 것입니다. https://aka.ms/editorchromeextensionterms\r\n\r\n개인정보처리방침: https://aka.ms/privacy\r\n"
+   },
+   "ebx_appLongDescriptionEdge": {
+      "message": "편집기는 Microsoft Edge 도구 모음에서 고급 언어 교정을 활성화할 수 있는 아이콘이 있습니다.\r\n\r\n이 앱을 설치하면 다음 사용 약관에 동의하는 것입니다. \r\n\r\n"
+   },
+   "ebx_appName": {
+      "message": "브라우저의 편집기"
+   },
+   "ebx_appShortName": {
+      "message": "편집기"
+   },
+   "ebx_appTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft Office Online software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "ebx_ariaReplaceWith": {
+      "message": "다음으로 대체"
+   },
+   "ebx_asInSynonyms": {
+      "message": "similar to"
+   },
+   "ebx_brandText": {
+      "message": "Microsoft Editor"
+   },
+   "ebx_brandTextArialLabel": {
+      "message": "Microsoft Editor 로고"
+   },
+   "ebx_brandTextBrandName": {
+      "message": "Office"
+   },
+   "ebx_brandTextTooltipTitle": {
+      "message": "Office로 구동되는 언어 교정"
+   },
+   "ebx_buyNow": {
+      "message": "지금 구매"
+   },
+   "ebx_cancelButtonCaption": {
+      "message": "취소"
+   },
+   "ebx_changeAllCommandLabel": {
+      "message": "모두 변경"
+   },
+   "ebx_changeSettingsCommandLabel": {
+      "message": "편집기 설정..."
+   },
+   "ebx_checkForRefinements": {
+      "message": "구체화 확인"
+   },
+   "ebx_checkGrammar": {
+      "message": "문법 검사"
+   },
+   "ebx_checkSpelling": {
+      "message": "맞춤법 검사"
+   },
+   "ebx_comingSoonTooltipTitle": {
+      "message": "지원 예정"
+   },
+   "ebx_copyrightLabel": {
+      "message": "Microsoft Corporation 2019"
+   },
+   "ebx_deleteRepeatedWord": {
+      "message": "[반복되는 단어 삭제]"
+   },
+   "ebx_duplicateBlockedSite": {
+      "message": "이 사이트는 이미 차단된 사이트 목록에 있습니다."
+   },
+   "ebx_editorEnableAnnouncementSettings": {
+      "message": "편집기 설정으로 이동"
+   },
+   "ebx_editorEnableAnnouncementText": {
+      "message": "이제 Microsoft Office 브라우저 확장에는 쓰기를 확인하고 대부분의 웹 사이트에 입력할 때 제안을 제공하는 온라인 서비스를 사용하는 편집기가 포함됩니다."
+   },
+   "ebx_editorEnableAnnouncementTitle": {
+      "message": "Microsoft 편집기(미리 보기) 지금 실행 중"
+   },
+   "ebx_feedbackSendTo": {
+      "message": "편집기는 Microsoft 내부 미리 보기로 사용할 수 있습니다. 피드백과 버그를 보내주십시오. "
+   },
+   "ebx_goPremiumEditorRefinementsTitle": {
+      "message": "편집기 작성 개선"
+   },
+   "ebx_goPremiumExplained": {
+      "message": "모든 Office 365 앱에서 편집기의 고급 쓰기 아이디어, 1TB의 OneDrive 저장소 및 프리미엄 기능을 다운로드하세요."
+   },
+   "ebx_goPremiumFeatureAdvGrammar": {
+      "message": "고급 문법"
+   },
+   "ebx_goPremiumFeatureBasicGrammar": {
+      "message": "기본 문법"
+   },
+   "ebx_goPremiumFeatureClarity": {
+      "message": "선명도"
+   },
+   "ebx_goPremiumFeatureConciseness": {
+      "message": "간결함"
+   },
+   "ebx_goPremiumFeatureConventions": {
+      "message": "Punctuation conventions"
+   },
+   "ebx_goPremiumFeatureFormal": {
+      "message": "형식 언어"
+   },
+   "ebx_goPremiumFeatureOfficeApps": {
+      "message": "Word, Excel, PowerPoint, OneNote"
+   },
+   "ebx_goPremiumFeatureOfficeAppsFree": {
+      "message": "웹 전용"
+   },
+   "ebx_goPremiumFeatureOfficeAppsPremium": {
+      "message": "프리미엄 데스크톱 및 모바일 앱"
+   },
+   "ebx_goPremiumFeatureOneDrive": {
+      "message": "OneDrive 클라우드 저장소"
+   },
+   "ebx_goPremiumFeatureOneDriveFree": {
+      "message": "1인당 5GB"
+   },
+   "ebx_goPremiumFeatureOneDrivePremium": {
+      "message": "개인 중요 보관소를 소유한 사용자당 1TB"
+   },
+   "ebx_goPremiumFeatureSpelling": {
+      "message": "맞춤법 검사"
+   },
+   "ebx_goPremiumFeatureVocabulary": {
+      "message": "어휘"
+   },
+   "ebx_goPremiumFree": {
+      "message": "무료"
+   },
+   "ebx_goPremiumLine": {
+      "message": "Editor의 고급 글쓰기 아이디어를 사용해 보세요."
+   },
+   "ebx_goPremiumLinkText": {
+      "message": "프리미엄으로 전환"
+   },
+   "ebx_goPremiumOtherBenefitsTitle": {
+      "message": "기타 마이크로소프트 혜택"
+   },
+   "ebx_goPremiumPageTitle": {
+      "message": "Office 365를 통해 편집기에서 더 많은 혜택을 받으세요."
+   },
+   "ebx_goPremiumSubscription": {
+      "message": "Office 365"
+   },
+   "ebx_hideSynonyms": {
+      "message": "동의어 숨기기"
+   },
+   "ebx_ignoreAllButtonLabel": {
+      "message": "모두 무시"
+   },
+   "ebx_learnMore": {
+      "message": "자세한 정보"
+   },
+   "ebx_moreButtonArialLabel": {
+      "message": "명령 더 보기"
+   },
+   "ebx_office365": {
+      "message": "Office 365"
+   },
+   "ebx_optionsPageTitle": {
+      "message": "편집기 설정"
+   },
+   "ebx_preview": {
+      "message": "(미리 보기)"
+   },
+   "ebx_proofingLanguage": {
+      "message": "언어 교정 언어"
+   },
+   "ebx_proofingLanguagePlaceHolder": {
+      "message": "언어 교정 언어 선택"
+   },
+   "ebx_saveButtonCaption": {
+      "message": "저장"
+   },
+   "ebx_settings": {
+      "message": "설정"
+   },
+   "ebx_showSpellingAndGrammarToggleCaption": {
+      "message": "맞춤법 및 문법 제안 표시"
+   },
+   "ebx_showSynonyms": {
+      "message": "동의어 표시"
+   },
+   "ebx_showSynonymsToggleCaption": {
+      "message": "추천 단어에 동의어 표시"
+   },
+   "ebx_suggestionMoreActionsArialLabel": {
+      "message": "추가 작업"
+   },
+   "ebx_turnOffEditor": {
+      "message": "편집기 끄기"
+   },
+   "ebx_turnOffEditorExplained": {
+      "message": "Editor는 제안을 전달하기 위해 콘텐츠를 분석하는 온라인 서비스입니다."
+   },
+   "ebx_userBlockedSites": {
+      "message": "차단된 사이트"
+   },
+   "ebx_userExcludedUrlErrorCaption": {
+      "message": "유효하지 않은 URL"
+   },
+   "ebx_userExcludedUrlsErrorCaption": {
+      "message": "$line$ 줄에 잘못된 URL \"$url$\"이(가) 있습니다.",
+      "placeholders": {
+         "line": {
+            "content": "$2",
+            "example": "123"
+         },
+         "url": {
+            "content": "$1",
+            "example": "https://microsoft.com"
+         }
+      }
+   },
+   "ebx_userExcludedUrlsTextBoxCaption": {
+      "message": "아래 나열된 사이트에서 교정을 비활성화했습니다. 중요한 콘텐츠나 느린 로딩 속도가 있는 추가 사이트에서는 편집기의 기능이 자동으로 비활성화될 수 있습니다."
+   }
+}

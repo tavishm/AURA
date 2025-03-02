@@ -1,0 +1,43 @@
+{
+   "app": {
+      "icon_color": "#E72C30",
+      "launch": {
+         "web_url": "https://gaana.com/"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      }, {
+         "size": 48,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      }, {
+         "size": 64,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      }, {
+         "size": 96,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      }, {
+         "size": 128,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      }, {
+         "size": 144,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      }, {
+         "size": 256,
+         "url": "https://moengageimage.imgix.net/gaanaprodmoengage/20170201075430775683AFC73UGaanaSymbolInverted2x1pngcompGaanaProd.png"
+      } ]
+   },
+   "description": "Gaana.com- Listen & Download latest MP3 songs online. Download new or old Hindi songs, Bollywood songs, English songs* & more on Gaana+ and play offline. Create, share and listen to streaming music playlists for free.",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "xQkPi0X1V5MtrUjhJvFY1jfQ+WbPTCX2hIe8fDlxyUs=",
+   "name": "Gaana",
+   "version": "2019.8.31.23422"
+}
